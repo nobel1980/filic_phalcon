@@ -1,0 +1,523 @@
+<data><row><dis_id>1</dis_id><id>8</id><name_bn>বাগেরহাট সদর</name_bn><name>BAGERHAT SADAR</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>14</id><name_bn>চিতলমারী</name_bn><name>CHITALMARI</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>34</id><name_bn>ফকিরহাট</name_bn><name>FAKIRHAT</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>38</id><name_bn>কচুয়া</name_bn><name>KACHUA</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>56</id><name_bn>মোল্লাহাট</name_bn><name>MOLLAHAT</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>58</id><name_bn>মোংলা</name_bn><name>MONGLA</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>60</id><name_bn>মোড়েলগঞ্জ</name_bn><name>MORRELGANJ</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>73</id><name_bn>রামপাল</name_bn><name>RAMPAL</name><visible>0</visible></row>
+<row><dis_id>1</dis_id><id>77</id><name_bn>শরনখোলা</name_bn><name>SARANKHOLA</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>4</id><name_bn>আলীকদম</name_bn><name>ALIKADAM</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>14</id><name_bn>বান্দরবন সদর</name_bn><name>BANDARBAN SADAR</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>51</id><name_bn>লামা</name_bn><name>LAMA</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>73</id><name_bn>নাইক্ষ্যংছড়ি</name_bn><name>NAIKHONGCHHARI</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>89</id><name_bn>রোয়াংছড়ি</name_bn><name>ROWANGCHHARI</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>91</id><name_bn>রুমা</name_bn><name>RUMA</name><visible>0</visible></row>
+<row><dis_id>3</dis_id><id>95</id><name_bn>থানচি</name_bn><name>THANCHI</name><visible>0</visible></row>
+<row><dis_id>4</dis_id><id>9</id><name_bn>আমতলী</name_bn><name>AMTALI</name><visible>0</visible></row>
+<row><dis_id>4</dis_id><id>19</id><name_bn>বামনা</name_bn><name>BAMNA</name><visible>0</visible></row>
+<row><dis_id>4</dis_id><id>28</id><name_bn>বরগুনা সদর</name_bn><name>BARGUNA SADAR</name><visible>0</visible></row>
+<row><dis_id>4</dis_id><id>47</id><name_bn>বেতাগী</name_bn><name>BETAGI</name><visible>0</visible></row>
+<row><dis_id>4</dis_id><id>85</id><name_bn>পাথরঘাটা</name_bn><name>PATHARGHATA</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>2</id><name_bn>আগৈলঝাড়া</name_bn><name>AGAILJHARA</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>3</id><name_bn>বাবুগঞ্জ</name_bn><name>BABUGANJ</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>7</id><name_bn>বাকেরগঞ্জ</name_bn><name>BAKERGANJ</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>10</id><name_bn>বানারী পাড়া</name_bn><name>BANARI PARA</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>32</id><name_bn>গৌরনদী</name_bn><name>GAURNADI</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>36</id><name_bn>হিজলা</name_bn><name>HIZLA</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>51</id><name_bn>বরিশাল সদর</name_bn><name>BARISAL SADAR (KOTWALI)</name><visible>1</visible></row>
+<row><dis_id>6</dis_id><id>62</id><name_bn>মেহেন্দীগঞ্জ</name_bn><name>MHENDIGANJ</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>69</id><name_bn>মুলাদী</name_bn><name>MULADI</name><visible>0</visible></row>
+<row><dis_id>6</dis_id><id>94</id><name_bn>উজিরপুর</name_bn><name>WAZIRPUR</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>18</id><name_bn>ভোলা সদর</name_bn><name>BHOLA SADAR</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>21</id><name_bn>বোরহানউদ্দীন</name_bn><name>BURHANUDDIN</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>25</id><name_bn>চর ফ্যাশন</name_bn><name>CHAR FASSON</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>29</id><name_bn>দৌলত খান</name_bn><name>DAULAT KHAN</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>54</id><name_bn>লালমোহন</name_bn><name>LALMOHAN</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>65</id><name_bn>মনপুরা</name_bn><name>MANPURA</name><visible>0</visible></row>
+<row><dis_id>9</dis_id><id>91</id><name_bn>তজুমদ্দিন</name_bn><name>TAZUMUDDIN</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>6</id><name_bn>আদমদিঘী</name_bn><name>ADAMDIGHI</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>20</id><name_bn>বগুড়া সদর</name_bn><name>BOGRA SADAR</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>27</id><name_bn>ধুনট</name_bn><name>DHUNAT</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>33</id><name_bn>দুপচাঁচিয়া</name_bn><name>DHUPCHANCHIA</name><visible>1</visible></row>
+<row><dis_id>10</dis_id><id>40</id><name_bn>গাবতলী</name_bn><name>GABTALI</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>54</id><name_bn>কাহালু</name_bn><name>KAHALOO</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>67</id><name_bn>নন্দীগ্রাম</name_bn><name>NANDIGRAM</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>81</id><name_bn>সারিয়াকান্দি</name_bn><name>SARIAKANDI</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>85</id><name_bn>শাজাহানপুর</name_bn><name>SHAJAHANPUR</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>88</id><name_bn>শেরপুর</name_bn><name>SHERPUR</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>94</id><name_bn>শিব্‌গঞ্জ</name_bn><name>SHIBGANJ</name><visible>0</visible></row>
+<row><dis_id>10</dis_id><id>95</id><name_bn>সোনাতলা</name_bn><name>SONATOLA</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>2</id><name_bn>আখাউড়া</name_bn><name>AKHAURA</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>4</id><name_bn>বাঞ্ছারামপুর</name_bn><name>BANCHHARAMPUR</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>13</id><name_bn>ব্রাক্ষ্মণবাড়িয়া সদর</name_bn><name>BRAHMANBARIA SADAR</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>33</id><name_bn>আশুগঞ্জ</name_bn><name>ASHUGANJ</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>63</id><name_bn>কস্‌বা</name_bn><name>KASBA</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>85</id><name_bn>নবীনগর</name_bn><name>NABINAGAR</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>90</id><name_bn>নাসিরনগর</name_bn><name>NASIRNAGAR</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>94</id><name_bn>সরাইল</name_bn><name>SARAIL</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>22</id><name_bn>চাঁদপুর সদর</name_bn><name>CHANDPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>45</id><name_bn>ফরিদগঞ্জ</name_bn><name>FARIDGANJ</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>47</id><name_bn>হাইমচর</name_bn><name>HAIM CHAR</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>49</id><name_bn>হাজীগঞ্জ</name_bn><name>HAJIGANJ</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>58</id><name_bn>কচুয়া</name_bn><name>KACHUA</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>76</id><name_bn>মতলব দক্ষিণ</name_bn><name>MATLAB DAKSHIN</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>79</id><name_bn>মতলব উত্তর</name_bn><name>MATLAB UTTAR</name><visible>0</visible></row>
+<row><dis_id>13</dis_id><id>95</id><name_bn>শাহরাস্তি</name_bn><name>SHAHRASTI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>4</id><name_bn>আনোয়ারা</name_bn><name>ANOWARA</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>8</id><name_bn>বাঁশখালী</name_bn><name>BANSHKHALI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>12</id><name_bn>বোয়ালখালী</name_bn><name>BOALKHALI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>18</id><name_bn>চন্দনাইশ</name_bn><name>CHANDANAISH</name><visible>0</visible></row>
+<row><dis_id>82</dis_id><id>47</id><name_bn>কালুখালী</name_bn><name>KALUKHALI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>33</id><name_bn>ফটিকছড়ি</name_bn><name>FATIKCHHARI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>37</id><name_bn>হাটহাজারী</name_bn><name>HATHAZARI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>47</id><name_bn>লোহাগাড়া</name_bn><name>LOHAGARA</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>53</id><name_bn>মীরসরাই</name_bn><name>MIRSHARAI</name><visible>0</visible></row>
+<row><dis_id>12</dis_id><id>7</id><name_bn>বিজয়নগর</name_bn><name>BIJOYNAGAR</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>97</id><name_bn>রাঙ্গাবালি</name_bn><name>RANGABALI</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>61</id><name_bn>পটিয়া</name_bn><name>PATIYA</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>70</id><name_bn>রাঙ্গুনীয়া</name_bn><name>RANGUNIA</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>74</id><name_bn>রাউজান</name_bn><name>RAOZAN</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>78</id><name_bn>সন্দ্বীপ</name_bn><name>SANDWIP</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>82</id><name_bn>সাতকানীয়া</name_bn><name>SATKANIA</name><visible>0</visible></row>
+<row><dis_id>15</dis_id><id>86</id><name_bn>সীতাকুন্ড</name_bn><name>SITAKUNDA</name><visible>1</visible></row>
+<row><dis_id>18</dis_id><id>7</id><name_bn>আলমডাঙ্গা</name_bn><name>ALAMDANGA</name><visible>0</visible></row>
+<row><dis_id>18</dis_id><id>23</id><name_bn>চুয়াডাঙ্গা সদর</name_bn><name>CHUADANGA SADAR</name><visible>1</visible></row>
+<row><dis_id>18</dis_id><id>31</id><name_bn>দামুরহুদা</name_bn><name>DAMURHUDA</name><visible>0</visible></row>
+<row><dis_id>18</dis_id><id>55</id><name_bn>জীবন নগর</name_bn><name>JIBAN NAGAR</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>9</id><name_bn>বরুড়া</name_bn><name>BARURA</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>15</id><name_bn>ব্রাক্ষ্মণ পাড়া</name_bn><name>BRAHMAN PARA</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>18</id><name_bn>বুড়িচং</name_bn><name>BURICHANG</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>27</id><name_bn>চান্দিনা</name_bn><name>CHANDINA</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>31</id><name_bn>চৌদ্দগ্রাম</name_bn><name>CHAUDDAGRAM</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>33</id><name_bn>কুমিল্লা সদর দক্ষিণ</name_bn><name>COMILLA SADAR DAKSHIN</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>36</id><name_bn>দাউদকান্দি</name_bn><name>DAUDKANDI</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>40</id><name_bn>দেবিদ্বার</name_bn><name>DEBIDWAR</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>54</id><name_bn>হোমনা</name_bn><name>HOMNA</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>67</id><name_bn>আদর্শ সদর</name_bn><name>COMILLA ADARSHA SADAR</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>72</id><name_bn>লাকসাম</name_bn><name>LAKSAM</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>74</id><name_bn>মনোহরগঞ্জ</name_bn><name>MANOHARGANJ</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>75</id><name_bn>মেঘনা</name_bn><name>MEGHNA</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>81</id><name_bn>মুরাদনগর</name_bn><name>MURADNAGAR</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>87</id><name_bn>নাঙ্গলকোট</name_bn><name>NANGALKOT</name><visible>0</visible></row>
+<row><dis_id>19</dis_id><id>94</id><name_bn>তিতাস</name_bn><name>TITAS</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>16</id><name_bn>চকরিয়া</name_bn><name>CHAKARIA</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>24</id><name_bn>কক্সবাজার সদর</name_bn><name>COX'S BAZAR SADAR</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>45</id><name_bn>কুতুবদিয়া</name_bn><name>KUTUBDIA</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>49</id><name_bn>মহেশখালী</name_bn><name>MAHESHKHALI</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>56</id><name_bn>পেকুয়া</name_bn><name>PEKUA</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>66</id><name_bn>রামু</name_bn><name>RAMU</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>90</id><name_bn>টেক্‌নাফ</name_bn><name>TEKNAF</name><visible>0</visible></row>
+<row><dis_id>22</dis_id><id>94</id><name_bn>উখিয়া </name_bn><name>UKHIA UPAZILA</name><visible>0</visible></row>
+<row><dis_id>26</dis_id><id>4</id><name_bn>তেজগাঁও উন্নয়ন সার্কেল</name_bn><name>TEJGAON UNNAYAN CIRCLE</name><visible>0</visible></row>
+<row><dis_id>26</dis_id><id>14</id><name_bn>ধামরাই</name_bn><name>DHAMRAI</name><visible>0</visible></row>
+<row><dis_id>26</dis_id><id>18</id><name_bn>দোহার</name_bn><name>DOHAR</name><visible>0</visible></row>
+<row><dis_id>26</dis_id><id>38</id><name_bn>কেরানীগঞ্জ</name_bn><name>KERANIGANJ</name><visible>0</visible></row>
+<row><dis_id>26</dis_id><id>62</id><name_bn>নবাবগঞ্জ</name_bn><name>NAWABGANJ</name><visible>0</visible></row>
+<row><dis_id>26</dis_id><id>72</id><name_bn>সাভার</name_bn><name>SAVAR</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>10</id><name_bn>বিরামপুর</name_bn><name>BIRAMPUR</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>12</id><name_bn>বীরগঞ্জ</name_bn><name>BIRGANJ</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>17</id><name_bn>বিরল</name_bn><name>BIRAL</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>21</id><name_bn>বোঁচাগঞ্জ</name_bn><name>BOCHAGANJ</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>30</id><name_bn>চিরিরবন্দর</name_bn><name>CHIRIRBANDAR</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>38</id><name_bn>ফুলবাড়ী</name_bn><name>FULBARI</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>43</id><name_bn>ঘোড়াঘাট</name_bn><name>GHORAGHAT</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>47</id><name_bn>হাকিমপুর</name_bn><name>HAKIMPUR</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>56</id><name_bn>কাহারোল</name_bn><name>KAHAROLE</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>60</id><name_bn>খানসামা</name_bn><name>KHANSAMA</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>64</id><name_bn>দিনাজপুর সদর</name_bn><name>DINAJPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>69</id><name_bn>নবাবগঞ্জ</name_bn><name>NAWABGANJ</name><visible>0</visible></row>
+<row><dis_id>27</dis_id><id>77</id><name_bn>পার্বতীপুর</name_bn><name>PARBATIPUR</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>3</id><name_bn>আলফাডাঙ্গা</name_bn><name>ALFADANGA</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>10</id><name_bn>ভাংগা</name_bn><name>BHANGA</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>18</id><name_bn>বোয়ালমারী</name_bn><name>BOALMARI</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>21</id><name_bn>চর ভদ্রাসন</name_bn><name>CHAR BHADRASAN</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>47</id><name_bn>ফরিদপুর সদর</name_bn><name>FARIDPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>56</id><name_bn>মধুখালী</name_bn><name>MADHUKHALI</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>62</id><name_bn>নগরকান্দা</name_bn><name>NAGARKANDA</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>84</id><name_bn>সদরপুর</name_bn><name>SADARPUR</name><visible>0</visible></row>
+<row><dis_id>30</dis_id><id>14</id><name_bn>ছাগলনাইয়া</name_bn><name>CHHAGALNAIYA</name><visible>0</visible></row>
+<row><dis_id>30</dis_id><id>25</id><name_bn>দাগনভূঞাঁ</name_bn><name>DAGANBHUIYAN</name><visible>0</visible></row>
+<row><dis_id>30</dis_id><id>29</id><name_bn>ফেনী সদর</name_bn><name>FENI SADAR</name><visible>0</visible></row>
+<row><dis_id>30</dis_id><id>41</id><name_bn>ফুলগাজী</name_bn><name>FULGAZI</name><visible>0</visible></row>
+<row><dis_id>30</dis_id><id>51</id><name_bn>পরশুরাম</name_bn><name>PARSHURAM</name><visible>0</visible></row>
+<row><dis_id>30</dis_id><id>94</id><name_bn>সোনাগাজী</name_bn><name>SONAGAZI</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>21</id><name_bn>ফুলছড়ি</name_bn><name>FULCHHARI</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>24</id><name_bn>গাইবান্ধা সদর</name_bn><name>GAIBANDHA SADAR</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>30</id><name_bn>গোবিন্দগঞ্জ</name_bn><name>GOBINDAGANJ</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>67</id><name_bn>পলাশবাড়ী</name_bn><name>PALASHBARI</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>82</id><name_bn>সাদুল্যাপুর</name_bn><name>SADULLAPUR</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>88</id><name_bn>সাঘাটা</name_bn><name>SAGHATA</name><visible>0</visible></row>
+<row><dis_id>32</dis_id><id>91</id><name_bn>সুন্দরগঞ্জ</name_bn><name>SUNDARGANJ</name><visible>0</visible></row>
+<row><dis_id>33</dis_id><id>30</id><name_bn>গাজীপুর সদর</name_bn><name>GAZIPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>33</dis_id><id>32</id><name_bn>কালিয়াকৈর</name_bn><name>KALIAKAIR</name><visible>0</visible></row>
+<row><dis_id>33</dis_id><id>34</id><name_bn>কালীগঞ্জ</name_bn><name>KALIGANJ</name><visible>0</visible></row>
+<row><dis_id>33</dis_id><id>36</id><name_bn>কাপাসিয়া</name_bn><name>KAPASIA</name><visible>0</visible></row>
+<row><dis_id>33</dis_id><id>86</id><name_bn>শ্রীপুর</name_bn><name>SREEPUR</name><visible>1</visible></row>
+<row><dis_id>35</dis_id><id>32</id><name_bn>গোপালগঞ্জ সদর</name_bn><name>GOPALGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>35</dis_id><id>43</id><name_bn>কাশিয়ানী</name_bn><name>KASHIANI</name><visible>0</visible></row>
+<row><dis_id>35</dis_id><id>51</id><name_bn>কোটালীপাড়া</name_bn><name>KOTALIPARA</name><visible>0</visible></row>
+<row><dis_id>35</dis_id><id>58</id><name_bn>মুকসুদপুর</name_bn><name>MUKSUDPUR</name><visible>0</visible></row>
+<row><dis_id>35</dis_id><id>91</id><name_bn>টুংগীপাড়া</name_bn><name>TUNGIPARA</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>2</id><name_bn>আজমিরীগঞ্জ</name_bn><name>AJMIRIGANJ</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>5</id><name_bn>বাহুবল</name_bn><name>BAHUBAL</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>11</id><name_bn>বানিয়াচং</name_bn><name>BANIACHONG</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>26</id><name_bn>চুনারুঘাট</name_bn><name>CHUNARUGHAT</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>44</id><name_bn>হবিগঞ্জ সদর</name_bn><name>HABIGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>68</id><name_bn>লাখাই</name_bn><name>LAKHAI</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>71</id><name_bn>মাধবপুর</name_bn><name>MADHABPUR</name><visible>0</visible></row>
+<row><dis_id>36</dis_id><id>77</id><name_bn>নবীগঞ্জ</name_bn><name>NABIGANJ</name><visible>0</visible></row>
+<row><dis_id>38</dis_id><id>13</id><name_bn>আক্কেলপুর</name_bn><name>AKKELPUR</name><visible>0</visible></row>
+<row><dis_id>38</dis_id><id>47</id><name_bn>জয়পুরহাট সদর</name_bn><name>JOYPURHAT SADAR</name><visible>0</visible></row>
+<row><dis_id>38</dis_id><id>58</id><name_bn>কালাই</name_bn><name>KALAI</name><visible>0</visible></row>
+<row><dis_id>38</dis_id><id>61</id><name_bn>ক্ষেতলাল</name_bn><name>KHETLAL</name><visible>0</visible></row>
+<row><dis_id>38</dis_id><id>74</id><name_bn>পাঁচবিবি</name_bn><name>PANCHBIBI</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>7</id><name_bn>বক্‌শীগঞ্জ</name_bn><name>BAKSHIGANJ</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>15</id><name_bn>দেওয়ানগঞ্জ</name_bn><name>DEWANGANJ</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>29</id><name_bn>ইসলামপুর</name_bn><name>ISLAMPUR</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>36</id><name_bn>জামালপুর সদর</name_bn><name>JAMALPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>58</id><name_bn>মাদারগঞ্জ</name_bn><name>MADARGANJ</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>61</id><name_bn>মেলান্দহ</name_bn><name>MELANDAHA</name><visible>0</visible></row>
+<row><dis_id>39</dis_id><id>85</id><name_bn>সরিষাবাড়ী</name_bn><name>SARISHABARI </name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>4</id><name_bn>অভয়নগর</name_bn><name>ABHAYNAGAR</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>9</id><name_bn>বাঘেরপাড়া</name_bn><name>BAGHER PARA</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>11</id><name_bn>চৌগাছা</name_bn><name>CHAUGACHHA</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>23</id><name_bn>ঝিকরগাছা</name_bn><name>JHIKARGACHHA</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>38</id><name_bn>কেশবপুর</name_bn><name>KESHABPUR</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>47</id><name_bn>যশোর সদর</name_bn><name>Jessore Sadar</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>61</id><name_bn>মনিরামপুর</name_bn><name>MANIRAMPUR</name><visible>0</visible></row>
+<row><dis_id>41</dis_id><id>90</id><name_bn>শার্শা</name_bn><name>SHARSHA</name><visible>0</visible></row>
+<row><dis_id>42</dis_id><id>40</id><name_bn>ঝালকাঠী সদর</name_bn><name>JHALOKATI SADAR</name><visible>0</visible></row>
+<row><dis_id>42</dis_id><id>43</id><name_bn>কাঁঠালিয়া</name_bn><name>KANTHALIA</name><visible>0</visible></row>
+<row><dis_id>42</dis_id><id>73</id><name_bn>নলছিটি</name_bn><name>NALCHITY</name><visible>0</visible></row>
+<row><dis_id>42</dis_id><id>84</id><name_bn>রাজাপুর</name_bn><name>RAJAPUR</name><visible>0</visible></row>
+<row><dis_id>44</dis_id><id>14</id><name_bn>হরিণাকুন্ড</name_bn><name>HARINAKUNDA</name><visible>0</visible></row>
+<row><dis_id>44</dis_id><id>19</id><name_bn>ঝিনাইদহ সদর</name_bn><name>JHENAIDAH SADAR</name><visible>0</visible></row>
+<row><dis_id>44</dis_id><id>33</id><name_bn>কালীগঞ্জ</name_bn><name>KALIGANJ</name><visible>0</visible></row>
+<row><dis_id>44</dis_id><id>42</id><name_bn>কোটচাঁদপুর</name_bn><name>KOTCHANDPUR</name><visible>0</visible></row>
+<row><dis_id>44</dis_id><id>71</id><name_bn>মহেশপুর</name_bn><name>MAHESHPUR</name><visible>0</visible></row>
+<row><dis_id>44</dis_id><id>80</id><name_bn>শৈলকুপা</name_bn><name>SHAILKUPA</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>43</id><name_bn>দিঘীনালা</name_bn><name>DIGHINALA</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>49</id><name_bn>খাগড়াছড়ি সদর</name_bn><name>KHAGRACHHARI SADAR</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>61</id><name_bn>লক্ষীছড়ি</name_bn><name>LAKSHMICHHARI</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>65</id><name_bn>মহালছড়ি</name_bn><name>MAHALCHHARI</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>67</id><name_bn>মানিকছড়ি</name_bn><name>MANIKCHHARI</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>70</id><name_bn>মাটিরাঙ্গা</name_bn><name>MATIRANGA</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>77</id><name_bn>পানছড়ি</name_bn><name>PANCHHARI</name><visible>0</visible></row>
+<row><dis_id>46</dis_id><id>80</id><name_bn>রামগড়</name_bn><name>RAMGARH</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>12</id><name_bn>বটিয়াঘাটা</name_bn><name>BATIAGHATA</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>17</id><name_bn>দাকোপ</name_bn><name>DACOPE</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>30</id><name_bn>ডুমুরিয়া</name_bn><name>DUMURIA</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>40</id><name_bn>দিঘলিয়া</name_bn><name>DIGHALIA</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>53</id><name_bn>কয়রা</name_bn><name>KOYRA</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>64</id><name_bn>পাইকগাছা</name_bn><name>PAIKGACHHA</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>69</id><name_bn>ফুলতলা</name_bn><name>PHULTALA</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>75</id><name_bn>রূপসা</name_bn><name>RUPSA</name><visible>0</visible></row>
+<row><dis_id>99</dis_id><id>99</id><name_bn>ইংল্যান্ড</name_bn><name>England</name><visible>0</visible></row>
+<row><dis_id>47</dis_id><id>94</id><name_bn>তেরখাদা</name_bn><name>TEROKHADA</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>2</id><name_bn>অষ্টগ্রাম</name_bn><name>AUSTAGRAM</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>6</id><name_bn>বাজিতপুর</name_bn><name>BAJITPUR</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>11</id><name_bn>ভৈরব</name_bn><name>BHAIRAB</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>27</id><name_bn>হোসেনপুর</name_bn><name>HOSSAINPUR</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>33</id><name_bn>ইটনা</name_bn><name>ITNA</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>42</id><name_bn>করিমগঞ্জ</name_bn><name>KARIMGANJ</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>45</id><name_bn>কটিয়াদী</name_bn><name>KATIADI</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>49</id><name_bn>কিশোরগঞ্জ সদর</name_bn><name>KISHOREGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>54</id><name_bn>কুলিয়ারচর</name_bn><name>KULIAR CHAR</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>59</id><name_bn>মিঠামইন</name_bn><name>MITHAMAIN</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>76</id><name_bn>নিকলী</name_bn><name>NIKLI</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>79</id><name_bn>পাকুন্দিয়া</name_bn><name>PAKUNDIA</name><visible>0</visible></row>
+<row><dis_id>48</dis_id><id>92</id><name_bn>তাড়াইল</name_bn><name>TARAIL</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>6</id><name_bn>ভুরুঙ্গামারী</name_bn><name>BHURUNGAMARI</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>8</id><name_bn>রাজীবপুর</name_bn><name>CHAR RAJIBPUR</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>9</id><name_bn>চিলমারী</name_bn><name>CHILMARI</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>18</id><name_bn>ফুলবাড়ী</name_bn><name>PHULBARI</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>52</id><name_bn>কুড়িগ্রাম সদর</name_bn><name>KURIGRAM SADAR</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>61</id><name_bn>নাগেশ্বরী</name_bn><name>NAGESHWARI</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>77</id><name_bn>রাজারহাট</name_bn><name>RAJARHAT</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>79</id><name_bn>রৌমারী</name_bn><name>RAUMARI</name><visible>0</visible></row>
+<row><dis_id>49</dis_id><id>94</id><name_bn>উলিপুর</name_bn><name>ULIPUR</name><visible>0</visible></row>
+<row><dis_id>50</dis_id><id>15</id><name_bn>ভেড়ামারা</name_bn><name>BHERAMARA</name><visible>0</visible></row>
+<row><dis_id>50</dis_id><id>39</id><name_bn>দৌলতপুর</name_bn><name>DAULATPUR</name><visible>0</visible></row>
+<row><dis_id>50</dis_id><id>63</id><name_bn>খোক্‌সা</name_bn><name>KHOKSA</name><visible>0</visible></row>
+<row><dis_id>50</dis_id><id>71</id><name_bn>কমারখালী</name_bn><name>KUMARKHALI</name><visible>0</visible></row>
+<row><dis_id>50</dis_id><id>79</id><name_bn>কুষ্টিয়া সদর</name_bn><name>KUSHTIA SADAR</name><visible>0</visible></row>
+<row><dis_id>50</dis_id><id>94</id><name_bn>মিরপুর</name_bn><name>MIRPUR</name><visible>0</visible></row>
+<row><dis_id>51</dis_id><id>33</id><name_bn>কমলনগর</name_bn><name>KAMALNAGAR</name><visible>0</visible></row>
+<row><dis_id>51</dis_id><id>43</id><name_bn>লক্ষ্ণীপুর সদর</name_bn><name>LAKSHMIPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>51</dis_id><id>58</id><name_bn>রায়পুর</name_bn><name>ROYPUR</name><visible>0</visible></row>
+<row><dis_id>51</dis_id><id>65</id><name_bn>রামগঞ্জ</name_bn><name>RAMGANJ</name><visible>0</visible></row>
+<row><dis_id>51</dis_id><id>73</id><name_bn>রামগতি</name_bn><name>RAMGATI</name><visible>0</visible></row>
+<row><dis_id>52</dis_id><id>2</id><name_bn>অদিতমারী</name_bn><name>ADITMARI</name><visible>0</visible></row>
+<row><dis_id>52</dis_id><id>33</id><name_bn>হাতীবান্ধা</name_bn><name>HATIBANDHA</name><visible>0</visible></row>
+<row><dis_id>52</dis_id><id>39</id><name_bn>কালীগঞ্জ</name_bn><name>KALIGANJ</name><visible>0</visible></row>
+<row><dis_id>52</dis_id><id>55</id><name_bn>লালমনিরহাট সদর</name_bn><name>LALMONIRHAT SADAR</name><visible>0</visible></row>
+<row><dis_id>52</dis_id><id>70</id><name_bn>পাটগ্রাম</name_bn><name>PATGRAM</name><visible>0</visible></row>
+<row><dis_id>54</dis_id><id>40</id><name_bn>কালকিনী</name_bn><name>KALKINI</name><visible>0</visible></row>
+<row><dis_id>54</dis_id><id>54</id><name_bn>মাদারিপুর সদর</name_bn><name>MADARIPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>54</dis_id><id>80</id><name_bn>রাজৈর</name_bn><name>RAJOIR</name><visible>0</visible></row>
+<row><dis_id>54</dis_id><id>87</id><name_bn>শিবচর</name_bn><name>SHIB CHAR</name><visible>0</visible></row>
+<row><dis_id>55</dis_id><id>57</id><name_bn>মাগুরা সদর</name_bn><name>MAGURA SADAR</name><visible>0</visible></row>
+<row><dis_id>55</dis_id><id>66</id><name_bn>মহম্মদপুর</name_bn><name>MOHAMMADPUR</name><visible>0</visible></row>
+<row><dis_id>55</dis_id><id>85</id><name_bn>শালিখা</name_bn><name>SHALIKHA</name><visible>0</visible></row>
+<row><dis_id>55</dis_id><id>95</id><name_bn>শ্রীপুর</name_bn><name>SREEPUR</name><visible>0</visible></row>
+<row><dis_id>56</dis_id><id>10</id><name_bn>দৌলতপুর</name_bn><name>DAULATPUR</name><visible>0</visible></row>
+<row><dis_id>56</dis_id><id>22</id><name_bn>ঘিওর</name_bn><name>GHIOR</name><visible>0</visible></row>
+<row><dis_id>56</dis_id><id>28</id><name_bn>হরিরামপুর</name_bn><name>HARIRAMPUR</name><visible>0</visible></row>
+<row><dis_id>56</dis_id><id>46</id><name_bn>মানিকগঞ্জ সদর</name_bn><name>MANIKGANJ SADAR</name><visible>1</visible></row>
+<row><dis_id>56</dis_id><id>70</id><name_bn>সাটুরিয়া</name_bn><name>SATURIA</name><visible>0</visible></row>
+<row><dis_id>56</dis_id><id>78</id><name_bn>শিবালয়</name_bn><name>SHIBALAYA</name><visible>0</visible></row>
+<row><dis_id>56</dis_id><id>82</id><name_bn>সিংগাইর</name_bn><name>SINGAIR</name><visible>0</visible></row>
+<row><dis_id>57</dis_id><id>47</id><name_bn>গাংনী</name_bn><name>GANGNI</name><visible>0</visible></row>
+<row><dis_id>57</dis_id><id>60</id><name_bn>মজিব নগর</name_bn><name>MUJIB NAGAR</name><visible>0</visible></row>
+<row><dis_id>57</dis_id><id>87</id><name_bn>মেহেরপুর সদর</name_bn><name>MEHERPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>14</id><name_bn>বড়লেখা</name_bn><name>BARLEKHA</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>35</id><name_bn>জুড়ী</name_bn><name>JURI</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>56</id><name_bn>কমলগঞ্জ</name_bn><name>KAMALGANJ</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>65</id><name_bn>কুলাউড়া</name_bn><name>KULAURA</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>74</id><name_bn>মৌলভীবাজার সদর</name_bn><name>MAULVIBAZAR SADAR</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>80</id><name_bn>রাজনগর</name_bn><name>RAJNAGAR</name><visible>0</visible></row>
+<row><dis_id>58</dis_id><id>83</id><name_bn>শ্রীমঙ্গল</name_bn><name>SREEMANGAL</name><visible>0</visible></row>
+<row><dis_id>59</dis_id><id>24</id><name_bn>গজারিয়া</name_bn><name>GAZARIA</name><visible>0</visible></row>
+<row><dis_id>59</dis_id><id>44</id><name_bn>লৌহজং</name_bn><name>LOHAJANG</name><visible>0</visible></row>
+<row><dis_id>59</dis_id><id>56</id><name_bn>মুন্সিগঞ্জ সদর</name_bn><name>MUNSHIGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>59</dis_id><id>74</id><name_bn>সিরাজদীখান</name_bn><name>SERAJDIKHAN</name><visible>0</visible></row>
+<row><dis_id>59</dis_id><id>84</id><name_bn>শ্রীনগর</name_bn><name>SREENAGAR</name><visible>0</visible></row>
+<row><dis_id>59</dis_id><id>94</id><name_bn>টংগিবাড়ী</name_bn><name>TONGIBARI</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>13</id><name_bn>ভালুকা</name_bn><name>BHALUKA</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>16</id><name_bn>ধোবাউড়া</name_bn><name>DHOBAURA</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>20</id><name_bn>ফুলবাড়ীয়া</name_bn><name>FULBARIA</name><visible>1</visible></row>
+<row><dis_id>61</dis_id><id>22</id><name_bn>গফরগাঁও</name_bn><name>GAFFARGAON</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>23</id><name_bn>গৌরীপুর</name_bn><name>GAURIPUR</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>24</id><name_bn>হালূয়াঘাট</name_bn><name>HALUAGHAT</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>31</id><name_bn>ঈশ্বরগঞ্জ</name_bn><name>ISHWARGANJ</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>52</id><name_bn>ময়মনসিংহ সদর</name_bn><name>MYMENSINGH SADAR</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>65</id><name_bn>মুক্তাগাছা</name_bn><name>MUKTAGACHHA</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>72</id><name_bn>নান্দাইল</name_bn><name>NANDAIL</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>81</id><name_bn>ফুলপুর</name_bn><name>PHULPUR</name><visible>0</visible></row>
+<row><dis_id>61</dis_id><id>94</id><name_bn>ত্রিশাল</name_bn><name>TRISHAL</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>3</id><name_bn>আত্রাই</name_bn><name>ATRAI</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>6</id><name_bn>বাদলগাছী</name_bn><name>BADALGACHHI</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>28</id><name_bn>ধামইরহাট</name_bn><name>DHAMOIRHAT</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>47</id><name_bn>মান্দা</name_bn><name>MANDA</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>50</id><name_bn>মহাদেবপুর</name_bn><name>MAHADEBPUR</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>60</id><name_bn>নওগাঁ সদর</name_bn><name>NAOGAON SADAR</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>69</id><name_bn>নিয়ামতপুর</name_bn><name>NIAMATPUR</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>75</id><name_bn>পত্নীতলা</name_bn><name>PATNITALA</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>79</id><name_bn>পোরশা</name_bn><name>PORSHA</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>85</id><name_bn>রাণীনগর</name_bn><name>RANINAGAR</name><visible>0</visible></row>
+<row><dis_id>64</dis_id><id>86</id><name_bn>সাপাহার</name_bn><name>SAPAHAR</name><visible>0</visible></row>
+<row><dis_id>65</dis_id><id>28</id><name_bn>কালিয়া</name_bn><name>KALIA</name><visible>0</visible></row>
+<row><dis_id>65</dis_id><id>52</id><name_bn>লোহাগড়া</name_bn><name>LOHAGARA</name><visible>0</visible></row>
+<row><dis_id>65</dis_id><id>76</id><name_bn>নড়াইল সদর</name_bn><name>NARAIL SADAR</name><visible>0</visible></row>
+<row><dis_id>67</dis_id><id>2</id><name_bn>আড়াইহাজার</name_bn><name>ARAIHAZAR</name><visible>0</visible></row>
+<row><dis_id>67</dis_id><id>4</id><name_bn>সোনারগাঁ</name_bn><name>SONARGAON</name><visible>0</visible></row>
+<row><dis_id>67</dis_id><id>6</id><name_bn>বন্দর</name_bn><name>BANDAR</name><visible>0</visible></row>
+<row><dis_id>67</dis_id><id>58</id><name_bn>নারায়নগঞ্জ সদর</name_bn><name>NARAYANGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>67</dis_id><id>68</id><name_bn>রূপগঞ্জ</name_bn><name>RUPGANJ</name><visible>0</visible></row>
+<row><dis_id>68</dis_id><id>7</id><name_bn>বেলাব</name_bn><name>BELABO</name><visible>0</visible></row>
+<row><dis_id>68</dis_id><id>52</id><name_bn>মনোহরদী</name_bn><name>MANOHARDI</name><visible>0</visible></row>
+<row><dis_id>68</dis_id><id>60</id><name_bn>নরসিংদী সদর</name_bn><name>NARSINGDI SADAR</name><visible>0</visible></row>
+<row><dis_id>68</dis_id><id>63</id><name_bn>পলাশ</name_bn><name>PALASH</name><visible>0</visible></row>
+<row><dis_id>68</dis_id><id>64</id><name_bn>রায়পুরা</name_bn><name>ROYPURA</name><visible>0</visible></row>
+<row><dis_id>68</dis_id><id>76</id><name_bn>শিবপুর</name_bn><name>SHIBPUR</name><visible>0</visible></row>
+<row><dis_id>69</dis_id><id>9</id><name_bn>বাগাতীপাড়া</name_bn><name>BAGATIPARA</name><visible>0</visible></row>
+<row><dis_id>69</dis_id><id>15</id><name_bn>বড়াইগ্রাম</name_bn><name>BARAIGRAM</name><visible>0</visible></row>
+<row><dis_id>69</dis_id><id>41</id><name_bn>গুরুদাসপুর</name_bn><name>GURUDASPUR</name><visible>0</visible></row>
+<row><dis_id>69</dis_id><id>44</id><name_bn>লালপুর</name_bn><name>LALPUR</name><visible>0</visible></row>
+<row><dis_id>69</dis_id><id>63</id><name_bn>নাটোর সদর</name_bn><name>NATORE SADAR</name><visible>0</visible></row>
+<row><dis_id>69</dis_id><id>91</id><name_bn>সিংড়া</name_bn><name>SINGRA</name><visible>0</visible></row>
+<row><dis_id>70</dis_id><id>18</id><name_bn>ভোলাহাট</name_bn><name>BHOLAHAT</name><visible>0</visible></row>
+<row><dis_id>70</dis_id><id>37</id><name_bn>গোমস্তাপুর</name_bn><name>GOMASTAPUR</name><visible>0</visible></row>
+<row><dis_id>70</dis_id><id>56</id><name_bn>নাচোল</name_bn><name>NACHOLE</name><visible>0</visible></row>
+<row><dis_id>70</dis_id><id>66</id><name_bn>চাঁপাই নবাবগঞ্জ সদর</name_bn><name>CHAPAI NABABGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>70</dis_id><id>88</id><name_bn>শিবগঞ্জ</name_bn><name>SHIBGANJ</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>4</id><name_bn>আটপাড়া</name_bn><name>ATPARA</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>9</id><name_bn>বারহাট্টা</name_bn><name>BARHATTA</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>18</id><name_bn>দুর্গাপুর</name_bn><name>DURGAPUR</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>38</id><name_bn>খালিয়াজুরী</name_bn><name>KHALIAJURI</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>40</id><name_bn>কলমাকান্দা</name_bn><name>KALMAKANDA</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>47</id><name_bn>কেন্দুয়া</name_bn><name>KENDUA</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>56</id><name_bn>মদন </name_bn><name>MADAN</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>63</id><name_bn>মোহনগঞ্জ</name_bn><name>MOHANGANJ</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>74</id><name_bn>নেত্রকোনা সদর</name_bn><name>NETROKONA SADAR</name><visible>0</visible></row>
+<row><dis_id>72</dis_id><id>83</id><name_bn>পূর্বধলা</name_bn><name>PURBADHALA</name><visible>0</visible></row>
+<row><dis_id>73</dis_id><id>12</id><name_bn>ডিম্‌লা</name_bn><name>DIMLA UPAZILA</name><visible>0</visible></row>
+<row><dis_id>73</dis_id><id>15</id><name_bn>ডোমার</name_bn><name>DOMAR UPAZILA</name><visible>0</visible></row>
+<row><dis_id>73</dis_id><id>36</id><name_bn>জলঢাকা </name_bn><name>JALDHAKA UPAZILA</name><visible>0</visible></row>
+<row><dis_id>73</dis_id><id>45</id><name_bn>কিশোরগঞ্জ</name_bn><name>KISHOREGANJ UPAZILA</name><visible>0</visible></row>
+<row><dis_id>73</dis_id><id>64</id><name_bn>নীলফামারী সদর </name_bn><name>NILPHAMARI SADAR UPAZ</name><visible>0</visible></row>
+<row><dis_id>73</dis_id><id>85</id><name_bn>সৈয়দপুর </name_bn><name>SAIDPUR UPAZILA</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>7</id><name_bn>বেগমগঞ্জ</name_bn><name>BEGUMGANJ</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>10</id><name_bn>চাট্‌খিল</name_bn><name>CHATKHIL</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>21</id><name_bn>কোম্পানীগঞ্জ</name_bn><name>COMPANIGANJ</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>36</id><name_bn>হাতিয়া</name_bn><name>HATIYA</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>47</id><name_bn>কবিরহাট</name_bn><name>KABIRHAT</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>80</id><name_bn>সেনবাগ</name_bn><name>SENBAGH</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>83</id><name_bn>সোনাইমুড়ী</name_bn><name>SONAIMURI</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>85</id><name_bn>সুবর্ণচর</name_bn><name>SUBARNACHAR</name><visible>0</visible></row>
+<row><dis_id>75</dis_id><id>87</id><name_bn>নোয়াখালী সদর</name_bn><name>NOAKHALI SADAR</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>5</id><name_bn>আটঘরিয়া</name_bn><name>ATGHARIA</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>16</id><name_bn>বেড়া</name_bn><name>BERA</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>19</id><name_bn>ভাঙ্গুড়া</name_bn><name>BHANGURA</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>22</id><name_bn>চাট্‌মোহর</name_bn><name>CHATMOHAR</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>33</id><name_bn>ফরিদপুর</name_bn><name>FARIDPUR</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>39</id><name_bn>ঈশ্বরদী</name_bn><name>ISHWARDI</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>55</id><name_bn>পাবনা সদর</name_bn><name>PABNA SADAR</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>72</id><name_bn>সাঁথিয়া</name_bn><name>SANTHIA</name><visible>0</visible></row>
+<row><dis_id>76</dis_id><id>83</id><name_bn>সুজানগর</name_bn><name>SUJANAGAR</name><visible>0</visible></row>
+<row><dis_id>77</dis_id><id>4</id><name_bn>আটওয়ারী</name_bn><name>ATWARI</name><visible>0</visible></row>
+<row><dis_id>77</dis_id><id>25</id><name_bn>বোদা</name_bn><name>BODA</name><visible>0</visible></row>
+<row><dis_id>77</dis_id><id>34</id><name_bn>দেবীগঞ্জ</name_bn><name>DEBIGANJ</name><visible>0</visible></row>
+<row><dis_id>77</dis_id><id>73</id><name_bn>পঞ্চগড় সদর</name_bn><name>PANCHAGARH SADAR</name><visible>0</visible></row>
+<row><dis_id>77</dis_id><id>90</id><name_bn>তেঁতুলিয়া</name_bn><name>TENTULIA</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>38</id><name_bn>বাউফল</name_bn><name>BAUPHAL</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>52</id><name_bn>দশ্‌মিনা</name_bn><name>DASHMINA</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>55</id><name_bn>দুম্‌কী </name_bn><name>DUMKI UPAZILA</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>57</id><name_bn>গলাচিপা</name_bn><name>GALACHIPA</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>66</id><name_bn>কলাপাড়া</name_bn><name>KALA PARA</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>76</id><name_bn>মির্জাগঞ্জ</name_bn><name>MIRZAGANJ UPAZILA</name><visible>0</visible></row>
+<row><dis_id>78</dis_id><id>95</id><name_bn>পটুয়াথালী সদর</name_bn><name>PATUAKHALI SADAR</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>14</id><name_bn>ভান্ডারিয়া</name_bn><name>BHANDARIA</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>47</id><name_bn>কাউখালী</name_bn><name>KAWKHALI</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>58</id><name_bn>মঠবাড়িয়া</name_bn><name>MATHBARIA</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>76</id><name_bn>নাজিরপুর</name_bn><name>NAZIRPUR UPAZILA</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>80</id><name_bn>পিরোজপুর সদর</name_bn><name>PIROJPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>87</id><name_bn>নেছারাবাদ</name_bn><name>NESARABAD (SWARUPKATI)</name><visible>0</visible></row>
+<row><dis_id>79</dis_id><id>90</id><name_bn>জিয়ানগর</name_bn><name>ZIANAGAR</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>10</id><name_bn>বাঘা</name_bn><name>BAGHA</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>12</id><name_bn>বাগমারা</name_bn><name>BAGHMARA</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>25</id><name_bn>চারঘাট</name_bn><name>CHARGHAT</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>31</id><name_bn>দুর্গাপুর</name_bn><name>DURGAPUR</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>34</id><name_bn>গোদাগাড়ী</name_bn><name>GODAGARI</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>53</id><name_bn>মোহনপুর</name_bn><name>MOHANPUR</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>72</id><name_bn>পবা</name_bn><name>PABA</name><visible>1</visible></row>
+<row><dis_id>81</dis_id><id>82</id><name_bn>পুঠিয়া</name_bn><name>PUTHIA</name><visible>0</visible></row>
+<row><dis_id>81</dis_id><id>94</id><name_bn>তানোর</name_bn><name>TANORE</name><visible>0</visible></row>
+<row><dis_id>82</dis_id><id>7</id><name_bn>বালিয়াকান্দি</name_bn><name>BALIAKANDI</name><visible>0</visible></row>
+<row><dis_id>82</dis_id><id>29</id><name_bn>গোয়ালন্দ</name_bn><name>GOALANDA</name><visible>0</visible></row>
+<row><dis_id>82</dis_id><id>73</id><name_bn>পাংশা</name_bn><name>PANGSHA</name><visible>0</visible></row>
+<row><dis_id>82</dis_id><id>76</id><name_bn>রাজবাড়ী সদর</name_bn><name>RAJBARI SADAR</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>7</id><name_bn>বাঘাইছড়ি</name_bn><name>BAGHAICHHARI</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>21</id><name_bn>বরকল</name_bn><name>BARKAL UPAZILA</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>25</id><name_bn>কাউখালী</name_bn><name>KAWKHALI (BETBUNIA)</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>29</id><name_bn>বিলাইছড়ি</name_bn><name>BELAI CHHARI  UPAZI</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>36</id><name_bn>কাপ্তাই</name_bn><name>KAPTAI  UPAZILA</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>47</id><name_bn>জুরাছড়ি</name_bn><name>JURAI CHHARI UPAZIL</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>58</id><name_bn>লংগদু</name_bn><name>LANGADU  UPAZILA</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>75</id><name_bn>নানিয়ারচর</name_bn><name>NANIARCHAR  UPAZILA</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>78</id><name_bn>রাজস্থলী</name_bn><name>RAJASTHALI  UPAZILA</name><visible>0</visible></row>
+<row><dis_id>84</dis_id><id>87</id><name_bn>রাঙ্গামাটি সদর</name_bn><name>RANGAMATI SADAR  </name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>3</id><name_bn>বদরগঞ্জ</name_bn><name>BADARGANJ</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>27</id><name_bn>গংগাচড়া</name_bn><name>GANGACHARA</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>42</id><name_bn>কাউনিয়া</name_bn><name>KAUNIA</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>49</id><name_bn>রংপুর সদর</name_bn><name>RANGPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>58</id><name_bn>মিঠাপুকুর</name_bn><name>MITHA PUKUR</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>73</id><name_bn>পীরগাছা</name_bn><name>PIRGACHHA</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>76</id><name_bn>পীরগঞ্জ</name_bn><name>PIRGANJ</name><visible>0</visible></row>
+<row><dis_id>85</dis_id><id>92</id><name_bn>তারাগঞ্জ</name_bn><name>TARAGANJ</name><visible>0</visible></row>
+<row><dis_id>86</dis_id><id>14</id><name_bn>ভেদরগঞ্জ</name_bn><name>BHEDARGANJ</name><visible>0</visible></row>
+<row><dis_id>86</dis_id><id>25</id><name_bn>ডামুড্যা</name_bn><name>DAMUDYA</name><visible>0</visible></row>
+<row><dis_id>86</dis_id><id>36</id><name_bn>গোসাইরহাট</name_bn><name>GOSAIRHAT</name><visible>0</visible></row>
+<row><dis_id>86</dis_id><id>65</id><name_bn>নড়িয়া</name_bn><name>NARIA</name><visible>0</visible></row>
+<row><dis_id>86</dis_id><id>69</id><name_bn>শরিয়তপুর সদর</name_bn><name>SHARIATPUR SADAR</name><visible>1</visible></row>
+<row><dis_id>86</dis_id><id>94</id><name_bn>জাজিরা</name_bn><name>ZANJIRA</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>4</id><name_bn>আশাশুনি</name_bn><name>ASSASUNI</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>25</id><name_bn>দেবহাটা</name_bn><name>DEBHATA</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>43</id><name_bn>কলারোয়া</name_bn><name>KALAROA</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>47</id><name_bn>কালীগঞ্জ</name_bn><name>KALIGANJ</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>82</id><name_bn>সাতক্ষীরা সদর</name_bn><name>SATKHIRA SADAR</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>86</id><name_bn>শ্যামনগর</name_bn><name>SHYAMNAGAR</name><visible>0</visible></row>
+<row><dis_id>87</dis_id><id>90</id><name_bn>তালা</name_bn><name>TALA</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>11</id><name_bn>বেলকুচি</name_bn><name>BELKUCHI</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>27</id><name_bn>চৌহালী</name_bn><name>CHAUHALI</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>44</id><name_bn>কামারখন্দ</name_bn><name>KAMARKHANDA</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>50</id><name_bn>কাজীপুর</name_bn><name>KAZIPUR</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>61</id><name_bn>রায়গঞ্জ</name_bn><name>ROYGANJ</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>67</id><name_bn>শাহজাদপুর</name_bn><name>SHAHJADPUR</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>78</id><name_bn>সিরাজগঞ্জ সদর</name_bn><name>SIRAJGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>89</id><name_bn>তাড়াশ</name_bn><name>TARASH</name><visible>0</visible></row>
+<row><dis_id>88</dis_id><id>94</id><name_bn>উল্লাপাড়া</name_bn><name>ULLAH PARA</name><visible>0</visible></row>
+<row><dis_id>89</dis_id><id>37</id><name_bn>ঝিনাইগাতি</name_bn><name>JHENAIGATI</name><visible>0</visible></row>
+<row><dis_id>89</dis_id><id>67</id><name_bn>নকলা</name_bn><name>NAKLA</name><visible>0</visible></row>
+<row><dis_id>89</dis_id><id>70</id><name_bn>নালিতাবাড়ী</name_bn><name>NALITABARI</name><visible>0</visible></row>
+<row><dis_id>89</dis_id><id>88</id><name_bn>শেরপুর সদর</name_bn><name>SHERPUR SADAR</name><visible>0</visible></row>
+<row><dis_id>89</dis_id><id>90</id><name_bn>শ্রীবরদী</name_bn><name>SREEBARDI</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>18</id><name_bn>বিশ্বম্ভরপুর</name_bn><name>BISHWAMBARPUR</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>23</id><name_bn>ছাতক</name_bn><name>CHHATAK</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>27</id><name_bn>দক্ষিন সুনামগঞ্জ</name_bn><name>DAKSHIN SUNAMGANJ</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>29</id><name_bn>দিরাই</name_bn><name>DERAI</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>32</id><name_bn>ধর্মপাশা</name_bn><name>DHARAMPASHA</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>33</id><name_bn>দোয়ারাবাজার</name_bn><name>DOWARABAZAR</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>47</id><name_bn>জগন্নাথপুর</name_bn><name>JAGANNATHPUR</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>50</id><name_bn>জামালগঞ্জ</name_bn><name>JAMALGANJ</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>86</id><name_bn>শাল্লা</name_bn><name>SULLA</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>89</id><name_bn>সুনামগঞ্জ সদর</name_bn><name>SUNAMGANJ SADAR</name><visible>0</visible></row>
+<row><dis_id>90</dis_id><id>92</id><name_bn>তাহিরপুর</name_bn><name>TAHIRPUR</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>8</id><name_bn>বালাগঞ্জ</name_bn><name>BALAGANJ</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>17</id><name_bn>বিয়ানীবাজার</name_bn><name>BEANI BAZAR</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>20</id><name_bn>বিশ্বনাথ</name_bn><name>BISHWANATH</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>27</id><name_bn>কোম্পানীগঞ্জ</name_bn><name>COMPANIGANJ</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>31</id><name_bn>দক্ষিণ সুরমা</name_bn><name>DAKSHIN SURMA</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>35</id><name_bn>ফেঞ্চুগঞ্জ</name_bn><name>FENCHUGANJ</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>38</id><name_bn>গোলাপগঞ্জ</name_bn><name>GOLAPGANJ</name><visible>1</visible></row>
+<row><dis_id>91</dis_id><id>41</id><name_bn>গোয়াইনঘাট</name_bn><name>GOWAINGHAT</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>53</id><name_bn>জৈন্তাপুর</name_bn><name>JAINTIAPUR</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>59</id><name_bn>কানাইঘাট</name_bn><name>KANAIGHAT</name><visible>0</visible></row>
+<row><dis_id>91</dis_id><id>62</id><name_bn>সিলেট সদর</name_bn><name>SYLHET SADAR</name><visible>1</visible></row>
+<row><dis_id>91</dis_id><id>94</id><name_bn>জকিগঞ্জ</name_bn><name>ZAKIGANJ</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>9</id><name_bn>বাসাইল</name_bn><name>BASAIL</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>19</id><name_bn>ভূঞাপুর</name_bn><name>BHUAPUR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>23</id><name_bn>দেলদোয়ার</name_bn><name>DELDUAR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>25</id><name_bn>ধনবাড়ী</name_bn><name>DHANBARI</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>28</id><name_bn>ঘাটাইল</name_bn><name>GHATAIL</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>38</id><name_bn>গোপালপুর</name_bn><name>GOPALPUR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>47</id><name_bn>কালিহাতী</name_bn><name>KALIHATI</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>57</id><name_bn>মধুপুর</name_bn><name>MADHUPUR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>66</id><name_bn>মির্জাপুর</name_bn><name>MIRZAPUR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>76</id><name_bn>নাগরপুর</name_bn><name>NAGARPUR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>85</id><name_bn>সখীপুর</name_bn><name>SAKHIPUR</name><visible>0</visible></row>
+<row><dis_id>93</dis_id><id>95</id><name_bn>টাঙ্গাইল সদর</name_bn><name>TANGAIL SADAR</name><visible>0</visible></row>
+<row><dis_id>94</dis_id><id>8</id><name_bn>বালিয়াডাংগী</name_bn><name>BALIADANGI</name><visible>0</visible></row>
+<row><dis_id>94</dis_id><id>51</id><name_bn>হরিপুর</name_bn><name>HARIPUR</name><visible>0</visible></row>
+<row><dis_id>94</dis_id><id>82</id><name_bn>পীরগঞ্জ</name_bn><name>PIRGANJ</name><visible>0</visible></row>
+<row><dis_id>94</dis_id><id>86</id><name_bn>রানীশংকৈল</name_bn><name>RANISANKAIL</name><visible>0</visible></row>
+<row><dis_id>94</dis_id><id>94</id><name_bn>ঠাকুরগাঁও সদর</name_bn><name>THAKURGAON SADAR</name><visible>0</visible></row>
+<row><dis_id>29</dis_id><id>90</id><name_bn>সালথা</name_bn><name>SALTHA</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>91</id><name_bn>Ward-1</name_bn><name>Uttara Model Town</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>92</id><name_bn>Ward-17</name_bn><name>Kuril, Khilkhat, Nikunjo</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>93</id><name_bn>Ward-02</name_bn><name>Mirpur section-12, Mirpur Ceramic</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>94</id><name_bn>Ward-03</name_bn><name>Mirpur section-10</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>95</id><name_bn>Ward-04</name_bn><name>Mirpur section-14, Byshteki</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>96</id><name_bn>Ward-05</name_bn><name>Mirpur section-11, Bawneabad Area</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>97</id><name_bn>Ward-06</name_bn><name>Mirpur section-6 &amp; 7, Pollabi</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>98</id><name_bn>Ward-07</name_bn><name>Mirpur section-2, Rupnagar, Govt. housing Estate</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>99</id><name_bn>Ward-08</name_bn><name>Mirpur section-1, Box nagar, Zoo and Botanical Garden</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>100</id><name_bn>Ward-15</name_bn><name>Vasantek, Maticata, Manikdey, Barentek.</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>101</id><name_bn>Ward-18</name_bn><name>Baridhara,  Shahjadpur</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>102</id><name_bn>Ward-19</name_bn><name>Gulshan, Banani</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>103</id><name_bn>Ward-20</name_bn><name>Mohakhali, Niketan</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>104</id><name_bn>Ward-21</name_bn><name>Badda</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>105</id><name_bn>Ward-22</name_bn><name>East rampura, Ulon, West Haji Para</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>106</id><name_bn>Ward-23</name_bn><name>Khilgaon B Zone, Purbo Haji Para, Chowdhury Para.</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>107</id><name_bn>Ward-24</name_bn><name>Tajgaon I/A, Kunipara</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>108</id><name_bn>Ward-25</name_bn><name>Azrat Para, Rasul bag, Tajgaon</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>109</id><name_bn>Ward-35</name_bn><name>Boro Moghbazar, Eskaton</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>110</id><name_bn>Ward-36</name_bn><name>Neyatola.</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>111</id><name_bn>Ward-09</name_bn><name>Golartek, Bagbari, Gabtoli Bus Terminal</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>112</id><name_bn>Ward-10</name_bn><name>Gabtoli, Mirpur Colony, Darus Salam</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>113</id><name_bn>Ward-11</name_bn><name>Paikpara</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>114</id><name_bn>Ward-12</name_bn><name>Ahmed Nagar</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>115</id><name_bn>Ward-13</name_bn><name>Monipur, Parer Bagh</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>116</id><name_bn>Ward-14</name_bn><name>Kazipara, Sawrapara, Senpara-parbata</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>117</id><name_bn>Ward-16</name_bn><name>Ibrahinpur, Kafrul.</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>118</id><name_bn>Ward-26</name_bn><name>Kawranbazar, Tegturipara, Tejkunipara</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>119</id><name_bn>Ward-27</name_bn><name>Razabazar, Monipuripara, Indra road.</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>120</id><name_bn>Ward-28</name_bn><name>Agargaon, Taltola Staff Quarter</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>121</id><name_bn>Ward-29</name_bn><name>Mohammadpur</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>122</id><name_bn>Ward-30</name_bn><name>Shamoli Ring road, Adabor, Shakertek</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>123</id><name_bn>Ward-31</name_bn><name>Mohammadpur azam road, Jakir Hossain Road, Nazrul Islam Road.</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>124</id><name_bn>Ward-32</name_bn><name>Lalmatia, Asad Gate, Khilgi Road, Babar Road, Iqbal Road, Arongajeb Road, PC Culture</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>125</id><name_bn>Ward-33</name_bn><name>Basila, Katasur, Mohammadia Housing, Basbari</name><visible>0</visible></row>
+<row><dis_id>95</dis_id><id>126</id><name_bn>Ward-34</name_bn><name>IJafrabad, Sultanganj, Rayer Bazar, Bibir Bazar, Madhu Bazar</name><visible>0</visible></row>
+</data>

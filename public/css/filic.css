@@ -1,0 +1,176 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/*body {
+  color: #768089;
+  font-family: "Roboto Condensed", "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+}*/
+
+/*
+ * Header Styles
+ */
+ .fixed{
+  position: fixed;
+  height: 100px;
+  top: 0;
+  background-color: #ffffff;
+  /*border-bottom: 3px solid rgba(20, 170, 25, 0.3); */
+  box-shadow: 2px 2px 2px #8cc641;
+  width: 100%;
+  z-index: 100;
+ }
+.site-header .top-header {
+  padding: 30px 0; 
+}
+.site-header .bottom-header {
+  background-color: #499B4C;
+  *zoom: 1;
+  padding: 20px 0; }
+  .site-header .bottom-header:after {
+    content: " ";
+    clear: both;
+    display: block;
+    overflow: hidden;
+    height: 0; }
+  @media screen and (max-width: 640px) {
+    .site-header .bottom-header .social-links {
+      display: none; } }
+
+#branding {
+  float: left; }
+  #branding .logo, #branding .logo-text {
+    display: inline-block;
+    vertical-align: middle; }
+  #branding .logo {
+    margin-right: 10px; }
+  #branding .site-title {
+    margin-bottom: 0;
+    font-size: 20px;
+    font-size: 1.25em; }
+    #branding .site-title a {
+      color: #768089; }
+
+.right-section .phone, .right-section .search-form {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative; }
+@media screen and (max-width: 640px) {
+  .right-section .phone {
+    display: none; } }
+.right-section .phone img {
+  vertical-align: middle; }
+.right-section .search-form {
+  margin: 10px 0;
+  margin-left: 20px; }
+  @media screen and (max-width: 480px) {
+    .right-section .search-form {
+      display: none; } }
+  .right-section .search-form input {
+    padding-right: 40px; }
+  .right-section .search-form button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: none; }
+
+.main-navigation {
+  float: left; }
+  .main-navigation .menu-toggle {
+    border: none;
+    background: none;
+    color: white;
+    font-size: 20px;
+    font-size: 1.25em;
+    display: none;
+    outline: none; }
+    @media screen and (max-width: 990px) {
+      .main-navigation .menu-toggle {
+        display: block; } }
+    @media screen and (min-width: 991px) {
+      .main-navigation .menu-toggle {
+        display: none; } }
+  .main-navigation .menu {
+    list-style: none;
+    display: inline-block;
+    margin-top: 5px; }
+    @media screen and (max-width: 990px) {
+      .main-navigation .menu {
+        display: none; } }
+    @media screen and (min-width: 991px) {
+      .main-navigation .menu {
+        display: block; } }
+    .main-navigation .menu li {
+      display: inline-block; }
+      .main-navigation .menu li a {
+        color: white;
+        padding: 0 10px;
+        border-right: 1px solid rgba(255, 255, 255, 0.3);
+        -webkit-transition: .3s ease;
+                transition: .3s ease; }
+        .main-navigation .menu li a:hover {
+          color: #42a8f0; }
+      .main-navigation .menu li.current-menu-item a {
+        color: #1392ec; }
+
+.mobile-navigation {
+  clear: both;
+  display: none; }
+  @media screen and (min-width: 991px) {
+    .mobile-navigation {
+      display: none !important; } }
+  .mobile-navigation .menu {
+    list-style: none; }
+    .mobile-navigation .menu a {
+      padding: 20px 0;
+      display: block;
+      color: white; }
+    .mobile-navigation .menu .current-menu-item a {
+      color: #1392ec; }
+
+.banner{
+  padding: 10px;
+}
+
+.office-info .bg-color-orange {
+  background-color: #FF5733;
+} 
+
+.bg-color-purple {
+  background-color: #7b4f9d !important;
+}
+
+
+/*
+ * Footer Styles
+ */
+.site-footer {
+  padding-top: 50px; }
+  .site-footer .bottom-footer {
+    background-color: #4a4c4e;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 14px;
+    font-size: 0.875em; }
+  .site-footer .footer-navigation {
+    margin-bottom: 30px; }
+    .site-footer .footer-navigation a {
+      color: white;
+      padding: 0 10px;
+      border-right: 1px solid white;
+      line-height: 20px; }
+      .site-footer .footer-navigation a:last-child {
+        border-right: none; }
+  .site-footer .colophon {
+    color: #898b8d; }
+
+
+.policyBox {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
