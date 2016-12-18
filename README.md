@@ -1,2 +1,2 @@
 # filic_phalcon
-This is phalcon project
+This is phalcon project based on vokuro.
