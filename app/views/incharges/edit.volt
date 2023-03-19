@@ -1,19 +1,21 @@
-
-<form method="post" autocomplete="off">
+{{ javascript_include('js/ckeditor/ckeditor.js') }}
+<form method="post" autocomplete="off" enctype= "multipart/form-data" class='form-post' accept-charset="UTF-8" role="form" action="">
 
     <ul class="pager">
         <li class="previous pull-left">
-            {{ link_to("incharges", "&larr; Go Back") }}
+            {{ link_to("Incharges", "&larr; Go Back") }}
         </li>
         <li class="pull-right">
             {{ submit_button("Save", "class": "btn btn-success") }}
         </li>
     </ul>
-
     {{ content() }}
 
     <div class="center scaffold">
-        <h2>Edit Incharge</h2>
+
+        <h2> Edit Incharge Profile</h2>
+        {{ form.render("id") }}
+
 
         <div class="clearfix">
             <label for="name">Name</label>
@@ -21,34 +23,24 @@
         </div>
 
         <div class="clearfix">
-            <label for="emp_id">Employee id</label>
-            {{ form.render("emp_id") }}
-        </div>
-
-        <div class="clearfix">
-            <label for="designation">Designation ID</label>
+            <label for="designation">Name</label>
             {{ form.render("designation") }}
         </div>
 
         <div class="clearfix">
-            <label for="designation_code">Designation code</label>
-            {{ form.render("designation_code") }}
+            <label for="profile">Profile: </label>
+            {{ form.render("profile") }}
         </div>
 
         <div class="clearfix">
-            <label for="mobile">mobile No: </label>
-            {{ form.render("mobile") }}
+            <label for="files[]">Photo: </label>
+            <input type="file" name="files[]" multiple>
         </div>
 
-        <div class="clearfix">
-            <label for="phone">Phone No: </label>
-            {{ form.render("phone") }}
-        </div>
+        <script type="text/javascript">
+            CKEDITOR.replace('profile');
+            CKEDITOR.config.height = 350;
+        </script>
 
-        <div class="clearfix">
-            <label for="email">Email: </label>
-            {{ form.render("email") }}
-        </div>
     </div>
-
 </form>

@@ -47,8 +47,19 @@ class Offices extends Model
      *
      * @var string
      */
-     public $address;
+     public $address_id;
 
+    /**
+     *
+     * @var string
+     */
+    public $phone;
+
+    /**
+     *
+     * @var string
+     */
+    public $email;
 
 
     public function initialize()

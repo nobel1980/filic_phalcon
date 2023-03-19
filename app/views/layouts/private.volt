@@ -3,6 +3,12 @@
 {#{{ javascript_include('js/jquery.js') }}#}
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+
+<script
+        src="http://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+        integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+        crossorigin="anonymous"></script>
+
 <div class="navbar navbar-inverse">
     <div class="navbar-inner">
         <div class="container" style="width: auto;">
@@ -39,6 +45,9 @@
                             </li>
                             <li class="dropdown">
                                 {{ link_to('incharges', 'Incharges', 'class': 'page-scroll') }}
+                            </li>
+                            <li class="dropdown">
+                                {{ link_to('employees', 'Employees', 'class': 'page-scroll') }}
                             </li>
                             <li class="dropdown">
                                 {{ link_to('offices', 'Offices', 'class': 'page-scroll') }}

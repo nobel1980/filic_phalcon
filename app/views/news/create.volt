@@ -29,13 +29,13 @@
         </div>
 
         <div class="clearfix">
-            <label for="acive">Is Active? </label>
-            {{ form.render("active") }}
+            <label for="isActive">Is Active? </label>
+            {{ form.render("isActive") }}
         </div>
 
         <div class="clearfix">
-            <label for="home">Is Home? </label>
-            {{ form.render("home") }}
+            <label for="isHome">Is Home? </label>
+            {{ form.render("isHome") }}
         </div>
 
         <div class="clearfix">

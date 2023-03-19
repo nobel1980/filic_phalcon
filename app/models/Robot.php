@@ -8,7 +8,7 @@ use Phalcon\Mvc\Model\Resultset\Simple as Resultset;
 class Robot extends Model
 {
     public function initialize(){
-        $this->setConnectionService('dbOracle');
+        $this->setConnectionService('dbMysql');
     }
     public static function findByRawSql($sql, $params=null)
     {

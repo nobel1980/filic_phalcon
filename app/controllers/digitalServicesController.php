@@ -1,6 +1,8 @@
 <?php
 namespace Filic\Controllers;
 
+use Filic\Models\News;
+
 /**
  * Display the "About" page.
  */
@@ -13,14 +15,19 @@ class digitalServicesController extends ControllerBase
     public function initialize()
     {
         $this->view->setTemplateBefore('public');
+
+        $news = news::find();
+        $this->view->news = $news;
     }
     public function indexAction()
     {
-
     }
 
     public function epaymentAction()
     {
+    }
 
+    public function smsAction()
+    {
     }
 }

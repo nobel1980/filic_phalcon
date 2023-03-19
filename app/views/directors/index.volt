@@ -4,6 +4,9 @@
     <li class="previous pull-left">
         {{ link_to("directors/index", "&larr; Go Back") }}
     </li>
+    <li>
+        {{ link_to("directors/sort", "Sort", "class": "btn btn-primary") }}
+    </li>
     <li class="pull-right">
         {{ link_to("directors/create", "Create director profile", "class": "btn btn-primary") }}
     </li>

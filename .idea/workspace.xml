@@ -23,93 +23,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FinancialReportsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/FinancialReportsController.php">
+      <file leaf-file-name="OfficeInformationController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/OfficeInformationController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="189" column="5" selection-start="6083" selection-end="6083" vertical-scroll-proportion="-16.26923" vertical-offset="2790" max-vertical-offset="3434">
+            <state line="428" column="28" selection-start="14850" selection-end="14850" vertical-scroll-proportion="0.0" vertical-offset="4610" max-vertical-offset="8058">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="public.volt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/public.volt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="24" selection-start="3520" selection-end="3520" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2023">
               <folding>
-                <element signature="e#36#52#0" expanded="true" />
+                <marker date="1484996903663" expanded="true" signature="286:5858" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="315:1845" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="402:1814" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="441:1004" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="569:987" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="1075:1799" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="1308:1780" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="1911:5848" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="1943:5837" placeholder="..." />
+                <marker date="1484996903663" expanded="false" signature="2021:2035" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="2036:2133" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="2222:5778" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="2443:3346" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="2531:3324" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="3427:3742" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="3519:3720" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="3785:4488" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="3893:4466" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="4531:4942" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="4629:4920" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="5027:5231" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="5104:5209" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="5274:5561" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="5359:5539" placeholder="..." />
+                <marker date="1484996903663" expanded="true" signature="5920:5947" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public.volt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/public.volt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="320" selection-end="320" vertical-scroll-proportion="0.2509225" vertical-offset="0" max-vertical-offset="1887">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddressesController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/AddressesController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="9" selection-start="3306" selection-end="3306" vertical-scroll-proportion="0.0" vertical-offset="1870" max-vertical-offset="3451">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectorsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/DirectorsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="12" selection-start="3631" selection-end="4632" vertical-scroll-proportion="0.0" vertical-offset="1955" max-vertical-offset="3247">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.volt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/financialReports/create.volt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="133" selection-start="0" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.volt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/financialReports/edit.volt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="133" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="731">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="financialInformationController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/financialInformationController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="32" selection-start="1074" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1156">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.volt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/financialInformation/index.volt">
+        <entry file="file://$PROJECT_DIR$/app/views/contacts/index.volt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="55" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="2023">
+            <state line="3" column="13" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/NewsController.php">
+      <file leaf-file-name="ContactsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/ContactsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="50" selection-start="1494" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="3179">
+            <state line="82" column="33" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.0" vertical-offset="1394" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reports.volt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/financialInformation/reports.volt">
+      <file leaf-file-name="webmail.volt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/contacts/webmail.volt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="646">
+            <state line="12" column="75" selection-start="507" selection-end="507" vertical-scroll-proportion="0.39766082" vertical-offset="0" max-vertical-offset="1360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.volt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/officeInformation/new.volt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="142" selection-start="4668" selection-end="4682" vertical-scroll-proportion="0.0" vertical-offset="679" max-vertical-offset="2907">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="areaWise.volt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/officeInformation/areaWise.volt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="36" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1394">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locationWise.volt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/officeInformation/locationWise.volt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="78" selection-start="3168" selection-end="3187" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="1938">
               <folding />
             </state>
           </provider>
@@ -125,66 +131,64 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/pages/edit.volt" />
-        <option value="$PROJECT_DIR$/app/controllers/ContactsController.php" />
-        <option value="$PROJECT_DIR$/app/views/layouts/emailTemplates.volt" />
-        <option value="$PROJECT_DIR$/app/views/contacts/index.volt" />
-        <option value="$PROJECT_DIR$/public/css/filic.css" />
-        <option value="$PROJECT_DIR$/app/views/notices/edit.volt" />
-        <option value="$PROJECT_DIR$/app/models/Notices.php" />
-        <option value="$PROJECT_DIR$/app/views/notices/create.volt" />
-        <option value="$PROJECT_DIR$/app/forms/NoticesForm.php" />
-        <option value="$PROJECT_DIR$/app/controllers/NoticesController.php" />
-        <option value="$PROJECT_DIR$/app/views/notices/index.volt" />
-        <option value="$PROJECT_DIR$/app/controllers/MediaController.php" />
-        <option value="$PROJECT_DIR$/app/views/addresses/edit.volt" />
-        <option value="$PROJECT_DIR$/app/models/Addresses.php" />
-        <option value="$PROJECT_DIR$/app/forms/AddressesForm.php" />
-        <option value="$PROJECT_DIR$/app/controllers/AddressesController.php" />
-        <option value="$PROJECT_DIR$/app/views/addresses/create.volt" />
-        <option value="$PROJECT_DIR$/app/views/Offices/index.volt" />
-        <option value="$PROJECT_DIR$/app/controllers/OfficesController.php" />
-        <option value="$PROJECT_DIR$/app/views/Offices/edit.volt" />
-        <option value="$PROJECT_DIR$/app/config/config.php" />
-        <option value="$PROJECT_DIR$/app/views/officeInformation/ServiceCenter.volt" />
-        <option value="$PROJECT_DIR$/app/views/products/edit.volt" />
-        <option value="$PROJECT_DIR$/app/views/productPlan/bangla.volt" />
-        <option value="$PROJECT_DIR$/app/views/productPlan/index.volt" />
-        <option value="$PROJECT_DIR$/app/views/index.volt" />
+        <option value="$PROJECT_DIR$/app/controllers/DirectorsController.php" />
+        <option value="$PROJECT_DIR$/app/views/managements/sort.volt" />
+        <option value="$PROJECT_DIR$/app/views/directors/sort.volt" />
         <option value="$PROJECT_DIR$/public/js/custom.js" />
-        <option value="$PROJECT_DIR$/app/views/news/edit.volt" />
-        <option value="$PROJECT_DIR$/app/views/news/create.volt" />
-        <option value="$PROJECT_DIR$/app/views/layouts/private.volt" />
-        <option value="$PROJECT_DIR$/app/forms/NewsForm.php" />
-        <option value="$PROJECT_DIR$/app/controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/app/views/media/details.volt" />
-        <option value="$PROJECT_DIR$/app/views/officeInformation/index.volt" />
-        <option value="$PROJECT_DIR$/app/views/officeInformation/serviceCenter.volt" />
-        <option value="$PROJECT_DIR$/public/css/style.css" />
-        <option value="$PROJECT_DIR$/app/controllers/OfficeInformationController.php" />
+        <option value="$PROJECT_DIR$/app/views/directors/index.volt" />
+        <option value="$PROJECT_DIR$/app/models/Proposal.php" />
+        <option value="$PROJECT_DIR$/app/config/config.php" />
         <option value="$PROJECT_DIR$/app/views/index/index.volt" />
+        <option value="$PROJECT_DIR$/app/models/Robot.php" />
+        <option value="$PROJECT_DIR$/app/views/officeInformation/areaWise.volt" />
+        <option value="$PROJECT_DIR$/app/views/Offices/index.volt" />
+        <option value="$PROJECT_DIR$/app/views/incharges/index.volt" />
+        <option value="$PROJECT_DIR$/app/views/incharges/create.volt" />
+        <option value="$PROJECT_DIR$/app/forms/InchargesForm.php" />
+        <option value="$PROJECT_DIR$/app/views/incharges/edit.volt" />
+        <option value="$PROJECT_DIR$/app/views/employees/create.volt" />
+        <option value="$PROJECT_DIR$/app/views/employees/edit.volt" />
+        <option value="$PROJECT_DIR$/app/views/employees/index.volt" />
+        <option value="$PROJECT_DIR$/app/views/layouts/private.volt" />
+        <option value="$PROJECT_DIR$/app/models/Incharges.php" />
+        <option value="$PROJECT_DIR$/app/models/Employees.php" />
+        <option value="$PROJECT_DIR$/app/controllers/EmployeesController.php" />
+        <option value="$PROJECT_DIR$/app/forms/EmployeesForm.php" />
+        <option value="$PROJECT_DIR$/app/forms/AddressesForm.php" />
+        <option value="$PROJECT_DIR$/app/forms/OfficesForm.php" />
+        <option value="$PROJECT_DIR$/app/models/Addresses.php" />
+        <option value="$PROJECT_DIR$/app/views/addresses/edit.volt" />
+        <option value="$PROJECT_DIR$/app/views/addresses/create.volt" />
+        <option value="$PROJECT_DIR$/app/views/Offices/edit.volt" />
+        <option value="$PROJECT_DIR$/app/models/Offices.php" />
+        <option value="$PROJECT_DIR$/app/views/officeInformation/locationWise.volt" />
+        <option value="$PROJECT_DIR$/app/controllers/OfficesController.php" />
+        <option value="$PROJECT_DIR$/app/views/Offices/create.volt" />
+        <option value="$PROJECT_DIR$/app/views/index.volt" />
+        <option value="$PROJECT_DIR$/app/controllers/WeAreController.php" />
+        <option value="$PROJECT_DIR$/app/views/weAre/managementCommittee.volt" />
+        <option value="$PROJECT_DIR$/app/controllers/AddressesController.php" />
+        <option value="$PROJECT_DIR$/app/views/officeInformation/index.volt" />
         <option value="$PROJECT_DIR$/app/views/officeInformation/new.volt" />
-        <option value="$PROJECT_DIR$/app/views/news/index.volt" />
-        <option value="$PROJECT_DIR$/app/views/layouts/public.volt" />
-        <option value="$PROJECT_DIR$/app/views/media/index.volt" />
-        <option value="$PROJECT_DIR$/app/views/financialInformation/report.volt" />
-        <option value="$PROJECT_DIR$/app/views/financialInformation/details.volt" />
-        <option value="$PROJECT_DIR$/app/views/financialInformation/reports.volt" />
-        <option value="$PROJECT_DIR$/app/controllers/financialInformationController.php" />
-        <option value="$PROJECT_DIR$/app/views/financialInformation/reportDetails.volt" />
+        <option value="$PROJECT_DIR$/public/js/filic.js" />
+        <option value="$PROJECT_DIR$/app/views/financialInformation/index-old.volt" />
+        <option value="$PROJECT_DIR$/app/views/financialInformation/indexNew.volt" />
         <option value="$PROJECT_DIR$/app/views/financialInformation/index.volt" />
-        <option value="$PROJECT_DIR$/app/controllers/NewsController.php" />
-        <option value="$PROJECT_DIR$/app/views/financialReports/edit.volt" />
-        <option value="$PROJECT_DIR$/app/controllers/FinancialReportsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/financialInformationController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/OfficeInformationController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/CareersController.php" />
+        <option value="$PROJECT_DIR$/app/views/careers/index.volt" />
+        <option value="$PROJECT_DIR$/app/views/layouts/public.volt" />
+        <option value="$PROJECT_DIR$/app/views/emailTemplates/reset.volt" />
+        <option value="$PROJECT_DIR$/app/controllers/ContactsController.php" />
+        <option value="$PROJECT_DIR$/app/views/contacts/webmail.volt" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -295,6 +299,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Winner" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -492,28 +518,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="notices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Filic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filic_phalcon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="news" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -537,6 +541,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="managements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -628,6 +654,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="incharges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="financialReports" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -672,6 +720,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="employees" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emailTemplates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="digitalServices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -694,7 +808,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="allWinner" />
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="claimSettlement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filic_phalcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="careers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -951,7 +1131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../promos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mcms" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="web-ide.project.structure" />
@@ -961,11 +1141,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\filic_phalcon\app\views\contacts" />
       <recent name="C:\wamp\www\filic_phalcon\app\views\financialInformation" />
       <recent name="C:\wamp\www\filic_phalcon\app\views\officeInformation" />
-      <recent name="C:\wamp\www\filic_phalcon\app\views\layouts" />
-      <recent name="C:\wamp\www\filic_phalcon\app\views" />
-      <recent name="C:\wamp\www\filic_phalcon\app\controllers" />
+      <recent name="C:\wamp\www\filic_phalcon\app\views\weAre" />
+      <recent name="C:\wamp\www\filic_phalcon\app\models" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.AddressesController.php">
@@ -1023,7 +1203,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1031,7 +1211,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24320242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23394495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -1039,7 +1219,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3213703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.319933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1087,285 +1267,299 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/OfficesController.php">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/private.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="38" selection-start="2990" selection-end="2990" vertical-scroll-proportion="0.0" vertical-offset="1700" max-vertical-offset="2839" />
+        <state line="49" column="66" selection-start="2452" selection-end="2452" vertical-scroll-proportion="-4.576923" vertical-offset="714" max-vertical-offset="1955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.2709924" vertical-offset="751" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Incharges.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="121" selection-end="121" vertical-scroll-proportion="0.3244275" vertical-offset="0" max-vertical-offset="1445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/forms/InchargesForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="38" selection-start="757" selection-end="757" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/InchargesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="45.115383" vertical-offset="1173" max-vertical-offset="2465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/EmployeesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/forms/EmployeesForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="38" selection-start="689" selection-end="689" vertical-scroll-proportion="7.8461537" vertical-offset="714" max-vertical-offset="1394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Addresses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/addresses/index.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.8461537" vertical-offset="204" max-vertical-offset="1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/addresses/create.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="14" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Offices.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="23" selection-start="591" selection-end="591" vertical-scroll-proportion="-16.884615" vertical-offset="377" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/forms/OfficesForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="40" selection-start="2739" selection-end="2748" vertical-scroll-proportion="0.0" vertical-offset="1649" max-vertical-offset="2040" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Offices/edit.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Offices/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="59" selection-start="1142" selection-end="1142" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1020" />
+        <state line="45" column="36" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="935" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Offices/create.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/digitalServices/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.9677419" vertical-offset="510" max-vertical-offset="1309" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/digitalServices/epayment.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="110" selection-start="1754" selection-end="1762" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/create.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="344" max-vertical-offset="1088" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/products/edit.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/productPlan/bangla.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="97" selection-start="2355" selection-end="2355" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2499" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/productPlan/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="95" selection-start="2347" selection-end="2347" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2414" />
+        <state line="54" column="22" selection-start="1904" selection-end="1904" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="2754" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="157" selection-end="157" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="442" />
+        <state line="15" column="0" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="442" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/filic.js">
+    <entry file="file://$PROJECT_DIR$/app/views/weAre/managementHTML.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="320" selection-end="320" vertical-scroll-proportion="-2.0724382" vertical-offset="1377" max-vertical-offset="3264" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weAre/managementCommittee.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="84" selection-start="804" selection-end="804" vertical-scroll-proportion="-8.538462" vertical-offset="16" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/digitalServices/index.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.39921722" vertical-offset="204" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/addresses/edit.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="-0.09885932" vertical-offset="579" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/OfficesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="16" selection-start="7256" selection-end="7256" vertical-scroll-proportion="0.6292776" vertical-offset="3001" max-vertical-offset="4726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/forms/AddressesForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="33" selection-start="1773" selection-end="1781" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/locationWiseTest.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="67" vertical-scroll-proportion="0.0332681" vertical-offset="0" max-vertical-offset="2482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weAre/directors.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="6" selection-start="1592" selection-end="2466" vertical-scroll-proportion="0.0" vertical-offset="490" max-vertical-offset="1054" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="1" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.819788" vertical-offset="981" max-vertical-offset="1615" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/private.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="190" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1802" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Users.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.1166666" vertical-offset="1683" max-vertical-offset="2924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/PasswordChanges.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0388889" vertical-offset="561" max-vertical-offset="1105" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/news/create.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="37" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/News.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="12" selection-start="782" selection-end="794" vertical-scroll-proportion="0.9851852" vertical-offset="692" max-vertical-offset="1445" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/forms/NewsForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="901" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/ResetPasswords.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1700" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/edit.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="22" selection-start="3720" selection-end="3720" vertical-scroll-proportion="0.0" vertical-offset="1857" max-vertical-offset="2652" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/partial/footer.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="566" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="34" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="493" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/media/details.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="73" selection-start="406" selection-end="466" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="357" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1027" column="18" selection-start="28047" selection-end="28047" vertical-scroll-proportion="0.0" vertical-offset="17110" max-vertical-offset="17680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/serviceCenter.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="191" column="14" selection-start="169" selection-end="9927" vertical-scroll-proportion="-124.88461" vertical-offset="0" max-vertical-offset="3400" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="65" selection-end="65" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="3485" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/index/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="98" selection-start="7553" selection-end="7553" vertical-scroll-proportion="-73.88461" vertical-offset="289" max-vertical-offset="5049" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/new.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="160" selection-start="1820" selection-end="1820" vertical-scroll-proportion="-18.307692" vertical-offset="0" max-vertical-offset="7480" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/news/edit.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/news/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="32" selection-start="600" selection-end="600" vertical-scroll-proportion="0.6703704" vertical-offset="63" max-vertical-offset="1020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/forms/FinancialReportsForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/OfficeInformationController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1029" selection-end="1029" vertical-scroll-proportion="1.2518518" vertical-offset="140" max-vertical-offset="969" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ProductPlanController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="381" selection-end="451" vertical-scroll-proportion="-7.8461537" vertical-offset="153" max-vertical-offset="1360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/media/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="92" selection-start="791" selection-end="846" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/financialInformation/reportDetails.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="220" selection-end="242" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Files.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="41.192307" vertical-offset="1071" max-vertical-offset="1751">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/FinancialReports.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="1194" max-vertical-offset="1734">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/financialInformation/reports.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/financialInformationController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="32" selection-start="1074" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/MediaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="34" selection-start="488" selection-end="556" vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="697" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/financialInformation/index.volt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="55" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="2023">
-          <folding />
-        </state>
+        <state line="73" column="77" selection-start="1656" selection-end="1656" vertical-scroll-proportion="2.2563636" vertical-offset="0" max-vertical-offset="1615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/DirectorsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="12" selection-start="3631" selection-end="4632" vertical-scroll-proportion="-0.0" vertical-offset="1887" max-vertical-offset="3179">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.4770992" vertical-offset="1822" max-vertical-offset="3621" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/WeAreController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="5" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.44847327" vertical-offset="1040" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weAre/departmentIncharge.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="101" selection-start="1049" selection-end="1072" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="4369" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/filic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="54" selection-start="5995" selection-end="6006" vertical-scroll-proportion="0.0" vertical-offset="3560" max-vertical-offset="4318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/index.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1989" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/AddressesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="9" selection-start="3306" selection-end="3306" vertical-scroll-proportion="0.0" vertical-offset="1870" max-vertical-offset="3451">
+        <state line="13" column="3" selection-start="280" selection-end="280" vertical-scroll-proportion="-0.259542" vertical-offset="221" max-vertical-offset="3349" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/financialInformation/index.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="32" selection-start="1591" selection-end="1591" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/new.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="142" selection-start="4668" selection-end="4682" vertical-scroll-proportion="0.0" vertical-offset="679" max-vertical-offset="2907">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/NewsController.php">
+    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/areaWise.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="50" selection-start="1494" selection-end="1528" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="3179">
+        <state line="47" column="36" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1394">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/financialReports/create.volt">
+    <entry file="file://$PROJECT_DIR$/app/views/officeInformation/locationWise.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="133" selection-start="0" selection-end="133" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="782">
+        <state line="64" column="78" selection-start="3168" selection-end="3187" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="1938">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/financialReports/edit.volt">
+    <entry file="file://$PROJECT_DIR$/app/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="133" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="731">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cache/acl/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="539" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/financialInformation/directorReport.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/weAre/allCommittee.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="43" selection-start="268" selection-end="292" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="3043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/careers/index.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="188" selection-end="188" vertical-scroll-proportion="0.129771" vertical-offset="0" max-vertical-offset="524" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/CareersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="405" selection-end="405" vertical-scroll-proportion="0.5515267" vertical-offset="0" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/financialInformationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="387" selection-end="443" vertical-scroll-proportion="0.6164122" vertical-offset="0" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/digitalServicesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/OfficeInformationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="428" column="28" selection-start="14850" selection-end="14850" vertical-scroll-proportion="0.0" vertical-offset="4610" max-vertical-offset="8058">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/FinancialReportsController.php">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/private_org.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="5" selection-start="6083" selection-end="6083" vertical-scroll-proportion="-16.26923" vertical-offset="2790" max-vertical-offset="3434">
-          <folding>
-            <element signature="e#36#52#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.4678899" vertical-offset="255" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/public_org.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/public.volt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="320" selection-end="320" vertical-scroll-proportion="0.2509225" vertical-offset="0" max-vertical-offset="1887">
+        <state line="60" column="24" selection-start="3520" selection-end="3520" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2023">
+          <folding>
+            <marker date="1484996903663" expanded="true" signature="286:5858" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="315:1845" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="402:1814" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="441:1004" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="569:987" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="1075:1799" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="1308:1780" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="1911:5848" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="1943:5837" placeholder="..." />
+            <marker date="1484996903663" expanded="false" signature="2021:2035" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="2036:2133" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="2222:5778" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="2443:3346" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="2531:3324" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="3427:3742" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="3519:3720" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="3785:4488" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="3893:4466" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="4531:4942" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="4629:4920" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="5027:5231" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="5104:5209" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="5274:5561" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="5359:5539" placeholder="..." />
+            <marker date="1484996903663" expanded="true" signature="5920:5947" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/emailTemplates/reset.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="811" selection-end="811" vertical-scroll-proportion="0.5988258" vertical-offset="0" max-vertical-offset="511" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/emailTemplates/confirmation.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="537" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ContactsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="33" selection-start="2982" selection-end="2982" vertical-scroll-proportion="0.0" vertical-offset="1394" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contacts/index.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contacts/webmail.volt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="75" selection-start="507" selection-end="507" vertical-scroll-proportion="0.39766082" vertical-offset="0" max-vertical-offset="1360">
           <folding />
         </state>
       </provider>

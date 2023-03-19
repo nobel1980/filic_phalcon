@@ -16,19 +16,22 @@
         <tr>
             <th>Id</th>
             <th>Name</th>
+            <th>Address ID</th>
         </tr>
         </thead>
     {% endif %}
     <tbody>
     <tr>
         <td>{{ office.id }}</td>
-        {#<td>{{ office.name }}</td>#}
-        {#{% for key, office_type in ['1' : 'Divisional Office, Ekok', '2' : 'Divisional Office, SB', '3' : 'Service Center, Ekok', '4' : 'Service Center, EB', '5' : 'Zonal Office', '6' : 'Zonal Office, Ekok', '7' : 'Branch Office, Ekok', '8' : 'Branch Office, SB'] %}#}
-        {% for key, office_type in ['1' : 'Divisional Office', '2' : 'Service Center', '3' : 'Zonal Office', '4' : 'Organizational Office'] %}
+        <td>{{ office.name }}</td>
+
+        {#{% for key, office_type in ['1' : 'Divisional Office', '2' : 'Service Center', '3' : 'Zonal Office', '4' : 'Organizational Office'] %}
             {% if key is  office.office_type_id  %}
               <td> {{ office.name }} {{ office_type }}</td>
             {% endif %}
-        {% endfor %}
+        {% endfor %}#}
+
+        <td>{{ office.address_id }}</td>
         <td width="12%">{{ link_to("offices/edit/" ~ office.id, '<i class="icon-pencil"></i> Edit', "class": "btn") }}</td>
         <td width="12%">{{ link_to("offices/delete/" ~ office.id, '<i class="icon-remove"></i> Delete', "class": "btn") }}</td>
     </tr>

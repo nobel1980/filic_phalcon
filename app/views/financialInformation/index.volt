@@ -6,103 +6,28 @@
                     <div class="col-md-9">
                         <h1 id="timeline">Financial Statement</h1>
                         <hr class="colorgraph">
-                        <div class="well">
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th>Year 2016</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td><a href="images/Financial Information/2016/3First Quater Financial Statement-2016 (Un-Audited).png">Third Quarter Financial Statements - 2016 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Half Yearly Financial Statements - 2016 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#"> First Quarter Financial Statements - 2016 (Un-Audited)</a>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th>Year 2015</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td><a href="#">Third Quarter Financial Statements - 2015 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Half Yearly Financial Statements - 2015 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#"> First Quarter Financial Statements - 2015 (Un-Audited)</a>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th>Year 2014</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td><a href="#">Third Quarter Financial Statements - 2014 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Half Yearly Financial Statements - 2014 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#"> First Quarter Financial Statements - 2014 (Un-Audited)</a>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th>Year 2013</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td><a href="#">Third Quarter Financial Statements - 2013 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Half Yearly Financial Statements - 2013 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">First Quarter Financial Statements - 2013 (Un-Audited)</a>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th>Year 2012</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td><a href="#">Third Quarter Financial Statements - 2012 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Half Yearly Financial Statements - 2012 (Un-Audited)</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#"> First Quarter Financial Statements - 2012 (Un-Audited)</a>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                        </div>
+
+                        <table class="table">
+                            <tbody>
+                            {% for report in report %}
+                                {% if loop.first %}
+                                    {% set year = report.report_year %}
+                                    <tr><td><h4>Year {{ report.report_year }}</h4></td></tr>
+                                {% endif %}
+                                {% if report.report_year == year %}
+                                    <tr>
+                                        <td>{{ link_to("financialInformation/reportDetails/" ~ report.id,  report.title ) }}</td>
+                                    </tr>
+                                {% else %}
+                                    <tr><td><h4>Year {{ report.report_year }}</h4></td></tr>
+                                    <tr>
+                                        <td>{{ link_to("financialInformation/reportDetails/" ~ report.id,  report.title ) }}</td>
+                                    </tr>
+                                    {% set year = year - 1 %}
+                                {% endif %}
+                            {% endfor %}
+                            </tbody>
+                        </table>
                     </div>
                 </div>
             </div><!-- End Left content -->

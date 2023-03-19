@@ -4,8 +4,11 @@
     <li class="previous pull-left">
         {{ link_to("incharges/index", "&larr; Go Back") }}
     </li>
+    <li>
+        {{ link_to("incharges/sort", "Sort", "class": "btn btn-primary") }}
+    </li>
     <li class="pull-right">
-        {{ link_to("incharges/create", "Create Incharge", "class": "btn btn-primary") }}
+        {{ link_to("incharges/create", "Create incharge profile", "class": "btn btn-primary") }}
     </li>
 </ul>
 
@@ -16,9 +19,8 @@
         <tr>
             <th>Id</th>
             <th>Name</th>
-            <th>Emp id</th>
             <th>Designation</th>
-
+            <th>Photo</th>
         </tr>
     </thead>
 {% endif %}
@@ -26,12 +28,11 @@
         <tr>
             <td>{{ incharge.id }}</td>
             <td>{{ incharge.name }}</td>
-            <td>{{ incharge.emp_id }}</td>
-            <td>{{ incharge.designation.name }}</td>
+            <td>{{ incharge.designation }}</td>
+            <td>{{ image("files/incharge/" ~ incharge.file_name ~ "." ~ incharge.extension) }}</td>
 
-
-            <td width="12%">{{ link_to("incharges/edit/" ~ incharge.id, '<i class="icon-pencil"></i> Edit', "class": "btn") }}</td>
-            <td width="12%">{{ link_to("incharges/delete/" ~ incharge.id, '<i class="icon-remove"></i> Delete', "class": "btn") }}</td>
+            <td width="12%">{{ link_to("incharges/edit/" ~ director.id, '<i class="icon-pencil"></i> Edit', "class": "btn") }}</td>
+            <td width="12%">{{ link_to("incharges/delete/" ~ director.id, '<i class="icon-remove"></i> Delete', "class": "btn") }}</td>
         </tr>
     </tbody>
 {% if loop.last %}

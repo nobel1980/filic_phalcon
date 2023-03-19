@@ -58,9 +58,9 @@
                         </div>
                         <div class="media-body">
                             <ul class="list-group">
-                                <li class="list-group-item"><a href="committee.html"><img src="images/arrow-left.png">How to claim</a></li>
-                                <li class="list-group-item"><a href="committee.html"><img src="images/arrow-left.png">Claim online</a></li>
-                                <li class="list-group-item"><img src="images/arrow-left.png"><a href="committee.html">Track Application</a></li>
+                                <li class="list-group-item"><a href="{{ url('claimSettlement')  }}">{{ image("images/arrow-left.png") }} How to claim</a></li>
+                                <li class="list-group-item"><a href="{{ url('claimSettlement/index')  }}">{{ image("images/arrow-left.png") }} Claim online</a></li>
+                                <li class="list-group-item"><a href="{{ url('claimSettlement/index')  }}">{{ image("images/arrow-left.png") }} Track Application</a></li>
                             </ul>
                         </div>
                     </div>
@@ -76,9 +76,9 @@
                         </div>
                         <div class="media-body">
                             <ul class="list-group">
-                                <li class="list-group-item"><a href="{{ url('ProductPlan')  }}">{{ image("images/arrow-left.png") }} Family Protection</a></li>
-                                <li class="list-group-item"><a href="{{ url('ProductPlan')  }}">{{ image("images/arrow-left.png") }} Child Future</a></li>
-                                <li class="list-group-item"><a href="{{ url('ProductPlan')  }}">{{ image("images/arrow-left.png") }} Retirement Planning</a></li>
+                                <li class="list-group-item"><a href="{{ url('ProductPlan')  }}">{{ image("images/arrow-left.png") }} Child Protection</a></li>
+                                <li class="list-group-item"><a href="{{ url('ProductPlan')  }}">{{ image("images/arrow-left.png") }} Fixed Deposite</a></li>
+                                <li class="list-group-item"><a href="{{ url('ProductPlan')  }}">{{ image("images/arrow-left.png") }} Retirement Plan</a></li>
                             </ul>
                         </div>
                     </div>
@@ -126,9 +126,9 @@
                         </div>
                         <div class="media-body">
                             <ul class="list-group">
+                                <li class="list-group-item"><a href="{{ url('OfficeInformation/locationwise')  }}">{{ image("images/arrow-left.png") }} Area wise  Office </a></li>
                                 <li class="list-group-item"><a href="{{ url('OfficeInformation')  }}">{{ image("images/arrow-left.png") }} Divisional Office </a></li>
-                                <li class="list-group-item"><a href="{{ url('OfficeInformation/ServiceCenter')  }}">{{ image("images/arrow-left.png") }} Service Center </a></li>
-                                <li class="list-group-item"><a href="{{ url('OfficeInformation/new')  }}">{{ image("images/arrow-left.png") }} Zonal Office </a></li>
+                                <li class="list-group-item"><a href="{{ url('OfficeInformation')  }}">{{ image("images/arrow-left.png") }} Service Office </a></li>
                             </ul>
                         </div>
                     </div>

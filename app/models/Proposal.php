@@ -6,7 +6,7 @@ use Phalcon\Mvc\Model\Validator\Uniqueness;
 
 class Proposal extends Model
 {
-/*    public $SC_CODE;
+   /* public $SC_CODE;
 
     public $ENTRY;
 
@@ -382,8 +382,7 @@ class Proposal extends Model
 
     public $INSTPREM;
 
-    public $POLOPT;
-*/
+    public $POLOPT;*/
 
     /**
      *
@@ -408,6 +407,7 @@ class Proposal extends Model
      * @var string
      */
     public $SEX;
+
 
     public function initialize()
     {

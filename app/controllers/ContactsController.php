@@ -58,9 +58,9 @@ class contactsController extends ControllerBase
                         $subject = $state;
                         $body = $name."\n".$email."\n".$phone."\n".$description;
                         $from = 'From: '.$email;
-
+                        var_dump($body);exit;
                         if(mail ($to, $subject, $body, $from)){
-                            //var_dump($body);exit;
+                            var_dump($body);exit;
                             echo '<script>alert(\''.$name.' Your, email has been sent successfully.\')</script>';
 
                             return $this->response->redirect('contact');
@@ -78,5 +78,10 @@ class contactsController extends ControllerBase
                 $this->flash->error("captcha required.");
             }
         }
+    }
+
+    public function webmailAction()
+    {
+
     }
 }

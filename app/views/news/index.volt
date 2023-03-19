@@ -24,8 +24,8 @@
             <td>{{ news.id }}</td>
             <td>{{ news.title }}</td>
             <td>{{news.news_date }}</td>
-            <td>{{ news.isActive }}</td>
-            <td>{{ news.isHome }}</td>
+            <td>{{ news.isActive == '1' ? 'Yes' : 'No' }}</td>
+            <td>{{ news.isHome == '1' ? 'Yes' : 'No' }}</td>
 
             <td width="12%">{{ link_to("news/edit/" ~ news.id, '<i class="icon-pencil"></i> Edit', "class": "btn") }}</td>
             <td width="12%">{{ link_to("news/delete/" ~ news.id, '<i class="icon-remove"></i> Delete', "class": "btn") }}</td>

@@ -4,8 +4,10 @@ namespace Filic\Forms;
 
 use Phalcon\Forms\Form;
 use Phalcon\Forms\Element\Text;
+use Phalcon\Forms\Element\TextArea;
 use Phalcon\Forms\Element\Hidden;
 use Phalcon\Forms\Element\Select;
+use Phalcon\Forms\Element\File;
 use Phalcon\Validation\Validator\PresenceOf;
 use Phalcon\Validation\Validator\Email;
 use Phalcon\Validation\Validator\StringLength;
@@ -32,26 +34,14 @@ class InchargesForm extends Form
         ));
         $this->add($name);
 
-        $emp_id = new Text('emp_id');
-        $this->add($emp_id);
-
-        $this->add(new Select('designation', Designations::find(), array(
-            'using' => array('id', 'name'),
-            'order' => 'id ASC',
-            'useEmpty' => true,
-            'emptyText' => '...',
-            'emptyValue' => ''
-        )));
-
-        $designation_code = new Text('designation_code');
-
-        $designation_code->addValidators(array(
-            new PresenceOf(array(
-                'message' => 'The designation code is required'
-            ))
+        $title = new Text('title', array(
+            'placeholder' => 'e.g. qualification'
         ));
+        $this->add($title);
 
-        $this->add($designation_code);
+        $designation = new Text('designation');
+        $this->add($designation);
+
 
         $mobile = new Text('mobile');
 
@@ -71,6 +61,12 @@ class InchargesForm extends Form
 
         $email = new Text('email');
         $this->add($email);
+
+        $profile = new TextArea('profile', array(
+            'placeholder' => 'Profile Description'
+        ));
+
+        $this->add($profile);
 
     }
 

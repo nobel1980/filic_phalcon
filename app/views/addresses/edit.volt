@@ -13,7 +13,7 @@
     {{ content() }}
 
     <div class="center scaffold">
-        <h2>Create an address</h2>
+        <h2>Edit an address</h2>
 
         <div class="clearfix">
             <label for="address1">address line 1</label>
@@ -28,11 +28,6 @@
         <div class="clearfix">
             <label for="postcode">Postcode:</label>
             {{ form.render("postcode") }}
-        </div>
-
-        <div class="clearfix">
-            <label for="phone">Phone Number:</label>
-            {{ form.render("phone") }}
         </div>
 
         <div class="clearfix">

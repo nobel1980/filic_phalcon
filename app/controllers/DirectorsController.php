@@ -28,7 +28,9 @@ class DirectorsController extends ControllerBase
     {
         //$numberPage = 1;
         $numberPage = ($this->request->has('page')) ? (int)$this->request->get('page') : 1;
-        $director= Directors::find();
+        $director = Directors::find(array(
+            "order" => "level ASC"
+        ));
 
         $paginator = new Paginator(array(
             "data" => $director,
@@ -181,5 +183,29 @@ class DirectorsController extends ControllerBase
         }
 
         return $key;
+    }
+
+    public function sortAction()
+    {
+        $director = Directors::find(array(
+            "order" => "level ASC"
+        ));
+        $this->view->director = $director;
+    }
+
+    public function sortUpdateAction()
+    {
+        $i = 0;
+        foreach ($this->request->getPost('level') as $key => $id) {
+            $director= Directors::findFirstById($id);
+            $director->level = $key;
+
+            if (!$director->save()) {
+                $this->flash->error($director->getMessages());
+            } else {
+                $this->flash->success("Director was updated successfully");
+            }
+            $i++;
+        }
     }
 }

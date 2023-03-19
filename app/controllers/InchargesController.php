@@ -63,7 +63,7 @@ class InchargesController extends ControllerBase
             } else {
 
                 $this->flash->success("Incharge was created successfully");
-                return $this->response->redirect("incharges");
+                return $this->response->redirect("employees");
 
                 //Tag::resetInput();
             }

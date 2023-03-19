@@ -1,7 +1,10 @@
 {{ stylesheet_link('css/bootstrap.min.css') }}
-    {{ stylesheet_link('css/style.css') }}
-    {{ stylesheet_link('css/meganizr.css') }}
+{{ stylesheet_link('css/style.css') }}
+{{ stylesheet_link('css/meganizr.css') }}
 {{ stylesheet_link('css/pages.css') }}
+
+{{ javascript_include("js/jquery.js") }}
+{{ javascript_include("js//bootstrap.min.js") }}
 
 <header class="site-header">
     <div class="top-header">
@@ -43,20 +46,21 @@
                     <ul>
                         <li>{{ link_to('WeAre/directors', 'Board of Directors') }}</li>
                         <li>{{ link_to('WeAre/managementCommittee', 'Management Committee') }}</li>
+                        <li>{{ link_to('WeAre/departmentIncharge', 'Department Incharge') }}</li>
                         <li>{{ link_to('WeAre/corporateChronicle', 'Corporate Chronicle') }}</li>
                         <li>{{ link_to('WeAre/corporateInformation', 'Corporate information') }}</li>
                         <li>{{ link_to('WeAre/allCommittee', 'Composition of Committee') }}</li>
-                        <li>{{ link_to('WeAre/departmentIncharge', 'Department Incharge') }}</li>
                         <li>{{ link_to('WeAre/chairmanMessage', 'Message from Chairman') }}</li>
-                        <li>{{ link_to('WeAre/ceoMessage', 'Message from MD & CEO') }}</li>
+                        <li>{{ link_to('WeAre/ceoMessage', 'Message from CEO') }}</li>
                     </ul>
                 </li>
                 <!-- end DropDown -->
                 <li class="mzr-drop col2">
                     {{ link_to('productPlan', 'Products Plan') }}
+
                     <ul>
-                        <li>{{ link_to('productPlan/index', 'Products') }}</li>
-                        <li>{{ link_to('productPlan/Bangla', 'জীবনবীমা') }}</li>
+                        <li>{{ link_to('productPlan/index', 'Product English') }}</li>
+                        <li>{{ link_to('productPlan/Bangla', 'প্রোডাক্ট বাংলা') }}</li>
                     </ul>
                 </li>
                 <li class="mzr-drop col3">
@@ -72,8 +76,9 @@
                 <li class="mzr-drop col6">
                     {{ link_to('digitalServices', 'Digital Services') }}
                     <ul>
-                        <li><a href="http://182.16.156.188/filic_site/policy/">Online Statement</a></li>
+                        <li><a href="http://103.254.85.142/policy">Online Statement</a></li>
                         <li>{{ link_to('digitalServices/epayment', 'E-Payment') }}</li>
+                        <li>{{ link_to('digitalServices/sms', 'Mobile SMS') }}</li>
                     </ul>
                 </li>
                 <!-- No Dropdown Link -->
@@ -84,7 +89,11 @@
                     </ul>
                 </li>
                 <li class="mzr-drop col1">
-                    {{ link_to('allWinner', 'Fareast Star') }}
+                    {{ link_to('Winner', 'Fareast Star') }}
+                    <ul>
+                        <li>{{ link_to('Winner/hajj', 'Hajj Winner') }}</li>
+                        <li>{{ link_to('Winner/tour', 'Tour Winner') }}</li>
+                    </ul>
                 </li>
                 <li class="col8">{{ link_to('careers', 'Careers') }} </li>
                 <li class="col5">{{ link_to('contacts', 'Contact Us') }}</li>
@@ -101,6 +110,5 @@
 
 {{ partial("layouts/partial/footer") }}
 
-{{ javascript_include("js/jquery.js") }}
-{{ javascript_include("js//bootstrap.min.js") }}
+
 {{ javascript_include("js/filic.js") }}

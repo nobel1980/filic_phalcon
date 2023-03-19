@@ -2,7 +2,8 @@
 SQLyog Ultimate v9.02 
 MySQL - 5.6.17 : Database - filic
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -169,7 +170,7 @@ CREATE TABLE `files` (
 
 insert  into `files`(`id`,`title`,`report_quarter`,`report_year`,`report_type`,`original_name`,`file_name`,`extension`,`size`,`category`,`created_at`,`updated_at`) values (1,'First Quarter Financial Report',1,2020,NULL,'02.jpg','1gcqkmy9tkh36e33fibt','jpg',2234503,NULL,NULL,NULL),(2,'Half yearly',1,2016,NULL,'5977500-original.jpeg','ai11h6zxypa0wx3q5dpp','jpeg',558205,NULL,NULL,NULL),(3,'Yearly report',4,2016,NULL,'5977500-original.jpeg','mp3l0yakio5dbc4cpzxp','jpeg',558205,NULL,NULL,NULL),(4,'Half Yearly Report 2016',2,2016,NULL,'image2.jpg','c7lnvqsagd869kxetdci','jpg',287138,NULL,NULL,NULL),(5,'First Quarter 2015',1,2020,NULL,'First Quarter Financial Report 2013.jpg','14wq0l6ejquahzd599kg','jpg',259923,NULL,NULL,NULL),(6,'Third Quarter Financial report (Un-Audited)',3,2016,NULL,'3rd-Quarter-Report-2016-Un-Audited.png','ditdhjp086arl19mf0zo','png',155359,NULL,NULL,NULL);
 
-/*Table structure for table `incharges` */
+/*Table structure for table `employees` */
 
 DROP TABLE IF EXISTS `incharges`;
 
@@ -185,7 +186,7 @@ CREATE TABLE `incharges` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8;
 
-/*Data for the table `incharges` */
+/*Data for the table `employees` */
 
 insert  into `incharges`(`id`,`emp_id`,`name`,`designation_id`,`designation_code`,`mobile`,`phone`,`email`) values (1,5942,'Shahidul Islam',1,1,'01771241037',NULL,NULL),(2,582,'Rashed',2,25,'0147753233','',NULL),(3,1222,'Monju',5,23,'0174456666','',NULL),(4,2344,'Reem',8,233,'01476332222','',NULL),(5,3454,'Shihab',15,23,'0174533366','',NULL),(6,4343,'Tuhin',15,12,'017452358222','',NULL),(7,7677,'Munna',5,34,'0178687552','',NULL),(8,4654,'Naser',17,23,'0188543545','',NULL),(9,2133,'Babul Mia',15,45,'0192545454','',NULL),(10,3252,'Salman Khan',6,2,'01725546546546','',NULL),(11,2011,'Golam Ali',14,2,'015454545878','',NULL),(12,1242,'Lokman Khan',15,6,'017455875587','',NULL),(13,1250,'Roman Molla',12,23,'017255','','roman@gmail.com'),(14,1312,'Ashraful Islam',8,30,'01742555','','ashraf@gmail.com'),(15,2310,'Sharif Ahmed',11,12,'01725555','','sharif@gmail.com'),(16,3620,'Abul Kalam',16,1320,'0172555','','abul@gmail.com');
 

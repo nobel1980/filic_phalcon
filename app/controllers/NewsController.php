@@ -56,7 +56,7 @@ class NewsController extends ControllerBase
                 'isHome' => $this->request->getPost('isHome'),
                 'isActive' => $this->request->getPost('isActive')
             ));
-
+var_dump($news);exit;
             //add image
             if ($this->request->hasFiles() == true) {
                 $baseLocation = 'files/News/';

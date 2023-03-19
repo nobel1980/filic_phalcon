@@ -1,199 +1,111 @@
+<?php
+$offices = unique_value_array($office,'offTypeId', 'officeType');
+//print_r($offices);exit;
+?>
 <main class="main-content">
     <div class ="container">
-        <div class="row">
-            <h2 class="right-line">Office Information</h2>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Barisal Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            109 (2nd floor) <br>
-                            Women College gate,Sadar Road,<br>
-                             Barisal.<br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
+        <div class="row margin-top">
+            <div class="col-lg-12 col-sm-12 col-md-12">
+                <div class="btn-pref btn-group btn-group-justified btn-group-lg" role="group" aria-label="...">
+
+                   <?php
+                   $i=0;
+                     foreach($offices as $id=>$name)
+                    {
+                    if($i>0)
+                        {
+                         echo " <div class='btn-group' role='group'>
+                            <button type='button' id='' class='btn btn-default' href='#tab".$id."' data-toggle='tab'><span class='glyphicon glyphicon-book' aria-hidden='true'></span>
+                                <div class='hidden-xs'>".$name."</div>
+                            </button>
+                        </div>";
+                        }
+                    else
+                        {
+                        echo " <div class='btn-group' role='group'>
+                            <button type='button' id='$id' class='btn btn-filic' href='#tab".$id."' data-toggle='tab'><span class='glyphicon glyphicon-book' aria-hidden='true'></span>
+                                <div class='hidden-xs'>".$name."</div>
+                            </button>
+                        </div>";
+                        }
+
+                    $i++;
+                    }
+                   ?>
                 </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Chittagong Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Faruk Chamber (6th floor)<br>
-                            14, Sheikh Mujib Road, Pathantuly Chowmuhani  <br>
-                            Agrabad, Chittagong.<br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
+
+                <div class="margin-top">
+                    <div class="tab-content">
+                        <?php
+                        $i = 0;
+                        foreach($offices as $id=>$name)
+                        {
+                        if($i>0)
+                           {
+                           echo "<div class='tab-pane fade in' id='tab".$id."'>";
+                            }
+                        else
+                            {
+                            echo "<div class='tab-pane fade in active' id='tab".$id."'>";
+                            }
+                                echo "<div class='row'>";
+                                    foreach($office as $off)
+                                    {
+                                    if($off['offTypeId'] == $id)
+                                        {
+                                        echo "<div class='col-md-4'>
+                                            <div class='panel panel-default office-info'>
+                                                <div class='panel-heading'><i class='glyphicon glyphicon-home'>
+                                                        <strong> " .$off['name']. "</strong>
+                                                    </i></div>
+                                                <div class='panel-body'>
+                                                    <address>
+                                                        " .$off['address1']. "<br>
+                                                        " .$off['address2']. "<br>
+                                                        " .$off['subdistrict']. "<br>
+                                                        " .$off['district']. "<br>
+                                                        ";
+                                                        if (strlen($off['phone'] != 0)){
+                                                        echo " <i class='glyphicon glyphicon-earphone'> 09613000123-Ext." .$off['phone']. "</i><br> ";
+                                                        }elseif(strlen($off['phone'] == 3)){
+                                                        echo " <i class='glyphicon glyphicon-earphone'> " .$off['phone']. "</i><br> ";
+                                                        }else{
+                                                        echo " <i class='glyphicon glyphicon-earphone'> 09613000123</i><br> ";
+                                                        }
+
+                                                        if (empty ($off['email'] == false)){
+                                                        echo " <i class='glyphicon glyphicon-envelope'> ".$off['email']."</i><br> ";
+                                                        }else{
+                                                        echo " <i class='glyphicon glyphicon-envelope'> info@fareastislamilife.com</i><br> ";
+                                                        }
+                                                        echo "</address>
+                                                </div>
+                                            </div>
+                                        </div>";
+                                        }
+                                    }
+                                echo "   </div>
+                            </div>";
+                            $i++;
+                            }
+                            ?>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Comilla Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            67/58, Nazrul Avenue<br>
-                            Nahar Plaza (2nd Floor)<br>
-                            Kandir Par, Comilla-3500.<br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Dhaka Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Rahmat Tower (3rd floor)<br>
-                            19, Dilkusha, Motijheel, C/A<br>
-                            Dhaka-1000. <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Faridpur Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Karim Mansion (1st  floor)<br>
-                            In front Of Poricharja Hospital<br>
-                            Goyal Chamot, Faridpur.  <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Khulna Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Ali Bhaban (1st floor)<br>
-                            A/7, Mazid Sharani<br>
-                            Sonadanga, Khulna.   <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Mymensingh Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            51, Jubli Ghat.<br>
-                            Mojlish Monjil (2nd Floor)<br>
-                            Mymensingh.    <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Noakhali Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Nodi Bangla Tower (3rd floor)<br>
-                            Stadium para,Main Road, Maizdee<br>
-                            Noakhali.  <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Overseas Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Fareast Tower (4th Floor)<br>
-                            35, Topkhana Road<br>
-                            Dhaka-1000.     <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Rajshahi Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Talukder Bashar Plaza (4th floor)<br>
-                            BoroGola, College Road<br>
-                            Bogra.<br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Rangpur Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Momen Plaza (3rd Floor)<br>
-                            House No# 28 Road No # 03, Arshad  More,<br>
-                             New Shenpara, Rangpur.<br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default office-info">
-                    <div class="panel-heading"><i class="glyphicon glyphicon-home">
-                            <strong>Khulna Divisional Office</strong>
-                        </i></div>
-                    <div class="panel-body">
-                        <address>
-                            Mohona - 01  Sunamgonj Road<br>
-                            Pathan tula,<br>
-                            Sylhet.  <br>
-                            <i class="glyphicon glyphicon-earphone"> 09613000123,</i><br>
-                            <i class="glyphicon glyphicon-envelope">   info@fareastislamilife.com</i>
-                        </address>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
 </main>
+
+<?php
+function unique_value_array($arr,$key_str,$val_str)
+{
+    $new_arr;
+    $i=0;
+    foreach($arr as $key => $val) {
+        $new_arr[$val[$key_str]] = $val[$val_str];
+        $i++;
+        }
+        return $uniq_arr = array_unique($new_arr);
+        }
+?>
+

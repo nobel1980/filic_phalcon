@@ -32,7 +32,7 @@ class AddressesController extends ControllerBase
 
         $paginator = new Paginator(array(
             "data" => $address,
-            "limit" => 10,
+            "limit" => 20,
             "page" => $numberPage
         ));
 
@@ -57,8 +57,9 @@ class AddressesController extends ControllerBase
                 'sub_id' => $this->request->getPost('subdistrict'),
                 'dis_id' => $this->request->getPost('district'),
                 'div_id' => $this->request->getPost('division'),
-                'lat' => $this->request->getPost('lat'),
-                'lng' => $this->request->getPost('lng')
+                'postcode' => $this->request->getPost('postcode'),
+                'lat' => $this->request->getPost('latitude'),
+                'lng' => $this->request->getPost('longitude')
             ));
             //var_dump($address);
             if (!$address->save()) {
@@ -96,8 +97,9 @@ class AddressesController extends ControllerBase
                 'sub_id' => $this->request->getPost('subdistrict'),
                 'dis_id' => $this->request->getPost('district'),
                 'div_id' => $this->request->getPost('division'),
-                'lat' => $this->request->getPost('lat'),
-                'lng' => $this->request->getPost('lng')
+                'postcode' => $this->request->getPost('postcode'),
+                'lat' => $this->request->getPost('latitude'),
+                'lng' => $this->request->getPost('longitude')
             ));
 
             if (!$address->save()) {

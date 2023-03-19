@@ -33,13 +33,7 @@ class Addresses extends Model
      */
     public $postcode;
 
-    /**
-     *
-     * @var int
-     */
-    public $phone;
-
-    /**
+     /**
      *
      * @var string
      */

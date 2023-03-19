@@ -15,6 +15,8 @@ class mediaController extends ControllerBase
     public function initialize()
     {
         $this->view->setTemplateBefore('public');
+        $news = news::find();
+        $this->view->news = $news;
     }
     public function indexAction()
     {
@@ -25,7 +27,7 @@ class mediaController extends ControllerBase
     public function detailsAction($id)
     {
         $news = news::findFirstById($id);
-        $this->view->news = $news;
+        $this->view->media = $news;
     }
 
     public function newNeventAction()

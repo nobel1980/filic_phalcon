@@ -1,9 +1,11 @@
 <?php
 namespace Filic\Controllers;
+use Filic\Models\Managements;
 use Phalcon\Tag;
 use Phalcon\Mvc\Model\Criteria;
 use Filic\Models\Directors;
 use Filic\Models\Pages;
+use Filic\Models\News;
 
 /**
  * Display the "About" page.
@@ -17,6 +19,9 @@ class WeAreController extends ControllerBase
     public function initialize()
     {
         $this->view->setTemplateBefore('public');
+
+        $news = news::find();
+        $this->view->news = $news;
     }
     public function indexAction()
     {
@@ -39,7 +44,10 @@ class WeAreController extends ControllerBase
 
     public function managementCommitteeAction()
     {
-
+        $management = Managements::find(array(
+            "order" => "level ASC"
+        ));
+        $this->view->managers = $management;
     }
 
     public function corporateInformationAction()

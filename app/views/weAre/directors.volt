@@ -2,6 +2,8 @@
     <div class ="container">
         <div class="margin-top row">
             <div id= "left-content" class="col-md-8">
+                <h1>Board of Directors</h1>
+                <hr class="colorgraph">
                 <div class="row margin-bottom">
                     {% for director in director %}
                     <div class="col-md-6 col-sm-6 col-xs-12">

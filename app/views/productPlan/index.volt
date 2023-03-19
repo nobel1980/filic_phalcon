@@ -3,6 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h2 class="right-line">Popular Insurance Plan</h2>
+                <hr class="colorgraph">
             </div>
             <div class="col-md-3">
                 <section>
@@ -37,7 +38,7 @@
                             <div class="thumbnail">
                                 {{ image("images/icons/retirement-green.png", "alt": "child insurance", "class" : "alignleft imageborder") }}
                             </div>
-                            <a href='javascript:void(0);' onclick='product_detail(this);' id="2" data-toggle="modal" data-target="#productDetail"><h3 class="section-title text-center">Pension Bima</h3></a>
+                            <a href='javascript:void(0);' onclick='product_detail(this);' id="2" data-toggle="modal" data-target="#productDetail"><h3 class="section-title text-center">Retirement Plan</h3></a>
                             <h4 class="text-center"><small>Tension free retirement</small></h4>
                         </div>
                     </div>
@@ -135,3 +136,7 @@
 
     </div>
 </div>
+
+<style>
+    h2, h4 {color: #009471;}
+</style>

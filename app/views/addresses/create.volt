@@ -31,11 +31,6 @@
         </div>
 
         <div class="clearfix">
-            <label for="phone">Phone:</label>
-            {{ form.render("phone") }}
-        </div>
-
-        <div class="clearfix">
             <label for="div_id">Division</label>
             {{ form.render("division") }}
         </div>

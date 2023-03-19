@@ -35,10 +35,10 @@ class NewsForm extends Form
         $description = new TextArea('description');
         $this->add($description);
 
-        $active = new Check('active',array('value'  => 1));
+        $active = new Check('isActive',array('value'  => 1));
         $this->add($active);
 
-        $home = new Check('home',array('value'  => 1));
+        $home = new Check('isHome',array('value'  => 1));
         $this->add($home);
 
         $news_date = new Date('news_date', array('class' => 'form-control'));

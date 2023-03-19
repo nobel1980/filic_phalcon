@@ -3,6 +3,7 @@ namespace Filic\Models;
 
 use Phalcon\Mvc\Model;
 
+
 class Incharges extends Model
 {
     /**
@@ -10,12 +11,6 @@ class Incharges extends Model
      * @var integer
      */
     public $id;
-
-    /**
-     *
-     * @var integer
-     */
-    public $emp_id;
 
     /**
      *
@@ -27,44 +22,59 @@ class Incharges extends Model
      *
      * @var integer
      */
-    public $designation_id;
+    public $designation;
 
     /**
      *
      * @var integer
      */
-    public $designation_code;
+    public $title;
 
     /**
      *
-     * @var varchar
+     * @var string
      */
-    public $mobile;
+    public $profile;
 
     /**
      *
-     * @var varchar
-     */
-    public $phone;
-
-    /**
-     *
-     * @var varchar
+     * @var string
      */
     public $email;
 
-    public function validation()
-    {
+    /**
+     *
+     * @var string
+     */
+    public $original_name;
 
-    }
+    /**
+     *
+     * @var string
+     */
+    public $file_name;
+
+    /**
+     *
+     * @var string
+     */
+    public $extension;
+
+    /**
+     *
+     * @var int
+     */
+    public $size;
+
+    /**
+     *
+     * @var int
+     */
+    public $level;
 
     public function initialize()
     {
         $this->setConnectionService('dbMysql');
 
-        $this->belongsTo('designation_id',  __NAMESPACE__ . '\Designations', 'id', array(
-            'alias' => 'designation',
-            'reusable' => true
-        ));
     }
 }

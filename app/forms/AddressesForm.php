@@ -38,10 +38,6 @@ class AddressesForm extends Form
         $postcode = new Text('postcode');
         $this->add($postcode);
 
-        $phone = new Text('phone');
-        $this->add($phone);
-
-
         $this->add(new Select('division', Divisions::find(), array(
             'using' => array('id', 'name'),
             'useEmpty' => true,

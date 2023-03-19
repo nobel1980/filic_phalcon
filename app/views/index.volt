@@ -9,7 +9,7 @@
 
     <title>Fareast Islami Life Insurance Company Limited</title>
 
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ url('images/favicon.png') }}">
+    <link rel="icon" type="image/ico" sizes="16x16" href="{{ url('images/favicon.ico') }}">
    {# <link href="//netdna.bootstrapcdn.com/bootswatch/2.3.1/united/bootstrap.min.css" rel="stylesheet">#}
 </head>
     <body>

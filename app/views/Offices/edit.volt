@@ -31,5 +31,20 @@
             <label for="businessId">Business ID</label>
             {{ form.render("businessId") }}
         </div>
+
+        <div class="clearfix">
+            <label for="addressId">Address ID</label>
+            {{ form.render("addressId") }}
+        </div>
+
+        <div class="clearfix">
+            <label for="phone">Phone Number:</label>
+            {{ form.render("phone") }}
+        </div>
+
+        <div class="clearfix">
+            <label for="email">Email:</label>
+            {{ form.render("email") }}
+        </div>
     </div>
 </form>

@@ -28,7 +28,9 @@ class ManagementsController extends ControllerBase
     {
         //$numberPage = 1;
         $numberPage = ($this->request->has('page')) ? (int)$this->request->get('page') : 1;
-        $management= Managements::find();
+        $management = Managements::find(array(
+            "order" => "level ASC"
+        ));
 
         $paginator = new Paginator(array(
             "data" => $management,
@@ -41,7 +43,7 @@ class ManagementsController extends ControllerBase
 
 
     /**
-     * Creates a Director
+     * Creates a Manager
      */
     public function createAction()
     {
@@ -113,13 +115,12 @@ class ManagementsController extends ControllerBase
                 $this->flash->error($management->getMessages());
             } else {
 
-                $this->flash->success("Director was updated successfully");
-
-                Tag::resetInput();
+                $this->flash->success("Manager was updated successfully");
+                //Tag::resetInput();
             }
         }
 
-        $this->view->incharge = $management;
+        $this->view->manager = $management;
 
         $this->view->form = new ManagementsForm($management, array(
             'edit' => true
@@ -163,5 +164,30 @@ class ManagementsController extends ControllerBase
         }
 
         return $key;
+    }
+
+    public function sortAction()
+    {
+        $management = Managements::find(array(
+            "order" => "level ASC"
+        ));
+        $this->view->manager = $management;
+    }
+
+    public function sortUpdateAction()
+    {
+        $i = 0;
+        $manager = array();
+        foreach ($this->request->getPost('level') as $key => $id) {
+            $manager= Managements::findFirstById($id);
+
+            $manager->level = $key;
+            if (!$manager->save()) {
+                $this->flash->error($manager->getMessages());
+            } else {
+                $this->flash->success("Manager was updated successfully");
+            }
+            $i++;
+        }
     }
 }

@@ -1,11 +1,12 @@
 <?php
 namespace Filic\Controllers;
-use Filic\Models\Pages;
+
+use Filic\Models\News;
 
 /**
- * Display the "About" page.
+ * Display the default index page.
  */
-class allWinnerController extends ControllerBase
+class ClaimSettlementController extends ControllerBase
 {
 
     /**
@@ -15,9 +16,11 @@ class allWinnerController extends ControllerBase
     {
         $this->view->setTemplateBefore('public');
     }
+
     public function indexAction()
     {
-        $winner= Pages::findFirst('id=6');
-        $this->view->winner = $winner;
+        $news = news::find();
+        $this->view->news = $news;
     }
+
 }

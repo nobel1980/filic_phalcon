@@ -4,6 +4,9 @@
     <li class="previous pull-left">
         {{ link_to("managements/index", "&larr; Go Back") }}
     </li>
+    <li>
+        {{ link_to("managements/sort", "Sort", "class": "btn btn-primary") }}
+    </li>
     <li class="pull-right">
         {{ link_to("managements/create", "Add", "class": "btn btn-primary") }}
     </li>

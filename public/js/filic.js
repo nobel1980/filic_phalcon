@@ -63,6 +63,31 @@ $(document).ready(function(){
         $("#office").removeClass("catGroup-hover-bg");
     });
 
+    /*Products*/
+    $("#children").hover(function() {
+        $(this).addClass("popular-product-hover-bg");
+    }, function() {
+        $(this).removeClass("popular-product-hover-bg");
+    });
+
+    $("#hajj").hover(function() {
+        $(this).addClass("popular-product-hover-bg");
+    }, function() {
+        $(this).removeClass("popular-product-hover-bg");
+    });
+
+    $("#pension").hover(function() {
+        $(this).addClass("popular-product-hover-bg");
+    }, function() {
+        $(this).removeClass("popular-product-hover-bg");
+    });
+
+    $("#deposite").hover(function() {
+        $(this).addClass("popular-product-hover-bg");
+    }, function() {
+        $(this).removeClass("popular-product-hover-bg");
+    });
+
 });
 
 /*facebook*/
@@ -184,3 +209,41 @@ function product_detailbn(id)
         });
 }
 
+
+//Office Incharge information
+function officeIncharge(id)
+{
+    var id= $(id).attr('id');
+    //cosole.log(id);
+    var url = base_path+"OfficeInformation/getincharge?id="+id;
+    $.post(url, function(data) {
+        $("#modalContent").html("");
+    })
+        .success(function(data) {
+        })
+        .error(function(data) {
+        })
+        .complete(function(data) {
+            $('#modalIncharge').show();
+            $("#modalContent").html(data.responseText);
+        });
+}
+
+
+
+/****For test not complete ***/
+function office(id)
+{
+    var id= $(id).attr('id');
+    var url = base_path+"OfficeInformation/getoffice?id="+id;
+
+    data
+        .success(function(data) {
+        })
+        .error(function(data) {
+        })
+        .complete(function(data) {
+            $('#modalDirector').show();
+            $("#modalContent").html(data.responseText);
+        });
+}

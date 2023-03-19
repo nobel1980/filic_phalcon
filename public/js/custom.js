@@ -82,8 +82,8 @@ function empty_select_list(select,ID){
 
     $(sel_id).find("option:gt(0)").remove();
     $(sel_id).find("option:first").text("...");
-
 }
+
 
 
 

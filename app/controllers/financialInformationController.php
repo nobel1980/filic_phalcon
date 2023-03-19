@@ -2,6 +2,7 @@
 namespace Filic\Controllers;
 use Filic\Models\Files;
 use Filic\Models\Pages;
+use Filic\Models\News;
 /**
  * Display the "About" page.
  */
@@ -14,10 +15,16 @@ class financialInformationController extends ControllerBase
     public function initialize()
     {
         $this->view->setTemplateBefore('public');
+
+        $news = news::find();
+        $this->view->news = $news;
     }
+
     public function indexAction()
     {
-
+        $report = Files::find(array(
+            "order"=> "id DESC"));
+        $this->view->report = $report;
     }
 
     public function shareholdingCompositionAction()
